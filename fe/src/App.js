@@ -1,19 +1,19 @@
+import Header from "./component/Header";
+import Footer from "./component/Footer";
+import Button from "./component/Button";
+import Card from "./component/Card";
+import Option from "./component/Option";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <div className="main-content">
+        Main Content
+        <Button />
+        <Card />
+        <Option />
+      </div>
+      <Footer />
     </div>
   );
 }
