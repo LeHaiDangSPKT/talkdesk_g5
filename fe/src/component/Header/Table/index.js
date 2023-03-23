@@ -10,6 +10,10 @@ function Table(props) {
   const [data2, setData2] = React.useState(
     data[0][0].content[0].children.content[0].children
   );
+  React.useEffect(() => {
+    setData1(data[0][0].content[0].children);
+    setData2(data[0][0].content[0].children.content[0].children);
+  }, [data]);
 
   const setDataFromChildComponent = (data) => {
     setData1(data);
