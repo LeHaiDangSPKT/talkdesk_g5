@@ -1,0 +1,23 @@
+.option {
+  margin: 5px 20px 5px 0;
+}
+.sc,
+.text {
+  padding: 12px;
+  cursor: pointer;
+  max-width: 360px;
+  border-radius: 6px;
+  font-weight: 550;
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: all 0.3s ease;
+  white-space: 25px;
+}
+
+.icon {
+  font-size: 14px;
+  padding-left: 60px;
+  color: #994ffa;
+}

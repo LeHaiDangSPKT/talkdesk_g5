@@ -13,7 +13,7 @@ body {
 }
 
 .bg-gray {
-  background-color: #f4f5f6;
+  background-color: #f4f5f6 !important;
 }
 
 .d_flex_bethween {

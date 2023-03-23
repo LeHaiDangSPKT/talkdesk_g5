@@ -71,12 +71,12 @@
   color: var(--primary);
 }
 
-.contact div:last-child {
+.en-language {
   border: none;
   position: relative;
   /* margin: 0 -10px; */
 }
-.contact div:last-child > i {
+.en-language > i {
   margin-left: 5px;
 }
 
@@ -95,27 +95,39 @@
   opacity: 1;
 }
 
-.contact div:last-child i {
+.en-language i {
   transition: all 0.2s ease-in;
 }
 
-.contact div:last-child:hover .language {
+.en-language:hover .language {
   display: block;
 }
-.contact div:last-child:hover i {
+.en-language:hover i {
   transform: rotate(-180deg);
 }
 
 .language {
   display: none;
   position: absolute;
-  top: 70px;
+  top: 85px;
   right: 0px;
   list-style-type: none;
   margin: 0;
   padding: 0;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   width: 240px;
+  z-index: 99;
+}
+
+.language::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: -35px;
+  right: 0px;
+  height: 35px;
+  width: 240px;
+  background-color: transparent;
 }
 
 .language > li {
