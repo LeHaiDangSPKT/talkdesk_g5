@@ -101,6 +101,7 @@
 
 .en-language:hover .language {
   display: block;
+  background-color: white;
 }
 .en-language:hover i {
   transform: rotate(-180deg);
