@@ -49,9 +49,8 @@ function Header() {
               );
             } else {
               return (
-                <li key={index} onMouseEnter={(e) => handleHover(e)}>
-                  {item}
-                </li>
+                // <li key={index} onMouseEnter={(e) => handleHover(e)}>
+                <li key={index}>{item}</li>
               );
             }
           })}
