@@ -4,6 +4,7 @@ import Card from "./component/Card";
 import Slider from "./component/Slider";
 import Sticky from "./component/Sticky";
 import img1 from "./assets/img/Slider/1.png";
+import ChatBox from "./component/Chatbox";
 function App() {
   return (
     <div className="App">
@@ -18,6 +19,7 @@ function App() {
         img={img1}
         button={[{ type: 1, name: "GET THE REPORT" }]}
       />
+      <ChatBox />
       {/* <div className="main-content">
         Main Content
         <Card />
