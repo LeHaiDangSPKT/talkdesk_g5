@@ -6,11 +6,21 @@ function Slider(props) {
     props;
   return (
     <div className={`${bgParent}`}>
-      <div className="slider">
+      <div
+        className={`slider ${positionOfImg == "left" ? "swap-img" : ""} ${
+          bgChild ? bgChild : ""
+        }`}
+      >
         <div className="info">
           <h1>{text}</h1>
+          <div className="sub-text-slider">{subText}</div>
           {button.map((item) => {
-            return <Button text={item.name} type={item.type} />;
+            return (
+              <>
+                <Button text={item.name} type={item.type} />
+                <br />
+              </>
+            );
           })}
         </div>
         <div>
