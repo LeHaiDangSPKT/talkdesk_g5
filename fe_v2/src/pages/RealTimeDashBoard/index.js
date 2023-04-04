@@ -1,5 +1,4 @@
 import React from "react";
-import Header from "../../component/Header";
 import SubNavbar from "../../component/SubNavbar";
 import Feature from "../../component/Feature";
 import Card from "../../component/Card";
@@ -7,15 +6,14 @@ import PieChartWithPaddingAngle from "../../component/PieChartWithPaddingAngle";
 import Table from "../../component/Table";
 import TextAndSub from "../../component/TextAndSub";
 import { Legend } from "recharts";
-function GreatCustomerService() {
+function RealTimeDashBoard() {
   const style = {
     paddingRight: "8px",
     color: "rgb(0, 196, 159)",
     fontSize: "10px",
   };
   return (
-    <div id="GreatCustomerService">
-      <Header />
+    <div id="RealTimeDashBoard">
       <div className="main-content">
         <SubNavbar />
         <Feature
@@ -896,4 +894,4 @@ function GreatCustomerService() {
   );
 }
 
-export default GreatCustomerService;
+export default RealTimeDashBoard;

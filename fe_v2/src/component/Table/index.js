@@ -37,27 +37,7 @@ function Table(props) {
             <th></th>
           </tr>
         </thead>
-        <tbody>
-          {/* <tr>
-            <td>Dom</td>
-            <td>Dom</td>
-            <td>Dom</td>
-            <td>6000</td>
-          </tr>
-          <tr>
-            <td>Dom</td>
-            <td>Dom</td>
-            <td>Dom</td>
-            <td>6000</td>
-          </tr>
-          <tr>
-            <td>Dom</td>
-            <td>Dom</td>
-            <td>Dom</td>
-            <td>6000</td>
-          </tr> */}
-          {props.children}
-        </tbody>
+        <tbody>{props.children}</tbody>
       </table>
     </div>
   );
