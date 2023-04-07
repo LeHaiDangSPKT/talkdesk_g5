@@ -7,8 +7,18 @@ class Staff {
     })
       .then((result) => {
         if (req.body.state) {
+          if (result) {
+            if (!result.password) {
+              res
+                .status(404)
+                .send(
+                  "Tài khoản này đăng nhập bằng Google, bạn hãy đăng nhập bằng Google với email đã nhập nhé !!!"
+                );
+            }
+          }
           result = !result;
         }
+        console.log(result);
         if (result) {
           res.status(404).send("Email đã tồn tại");
         } else {

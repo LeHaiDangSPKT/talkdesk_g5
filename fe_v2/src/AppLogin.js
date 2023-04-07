@@ -37,7 +37,6 @@ function AppLogin() {
         }
       })
       .catch(function (error) {
-        console.log(error);
         alert("Đăng nhập thất bại...");
       });
   };
@@ -58,7 +57,7 @@ function AppLogin() {
         document.location.href = "/real-time-dashboard";
       })
       .catch(function (error) {
-        console.log(error);
+        alert(error.response.data);
       });
   };
   const ShowOTP = () => {
@@ -71,6 +70,7 @@ function AppLogin() {
         return;
       }
     }
+
     Axios.post(process.env.REACT_APP_API + "/staff/send-otp", {
       email: account.email,
       otp: OTP,
@@ -80,7 +80,7 @@ function AppLogin() {
         setHasOTP(true);
       })
       .catch(function (error) {
-        console.log(error);
+        alert(error.response.data);
       });
   };
   const LoginGoogle = useGoogleLogin({
@@ -112,10 +112,10 @@ function AppLogin() {
             document.location.href = "/real-time-dashboard";
           })
           .catch(function (error) {
-            console.log(error);
+            alert(error.response.data);
           });
       } catch (err) {
-        console.log(err);
+        alert(err.response.data);
       }
     },
   });
@@ -198,7 +198,7 @@ function AppLogin() {
                               setHasOTPForgot(true);
                             })
                             .catch(function (error) {
-                              console.log(error);
+                              alert(error.response.data);
                             });
                         }
                       }}
