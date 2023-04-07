@@ -7,28 +7,28 @@ function Table(props) {
         <thead>
           <tr>
             <th>
-              Agent{" "}
+              Agent
               <i
                 class="fa-solid fa-sort"
                 style={{ color: "#979eaa", marginLeft: "5px" }}
               ></i>
             </th>
             <th>
-              Ring groups{" "}
+              Ring groups
               <i
                 class="fa-solid fa-sort"
                 style={{ color: "#979eaa", marginLeft: "5px" }}
               ></i>
             </th>
             <th>
-              Status{" "}
+              Status
               <i
                 class="fa-solid fa-sort"
                 style={{ color: "#979eaa", marginLeft: "5px" }}
               ></i>
             </th>
             <th>
-              Status time{" "}
+              Status time
               <i
                 class="fa-solid fa-sort"
                 style={{ color: "#979eaa", marginLeft: "5px" }}
