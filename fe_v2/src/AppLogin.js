@@ -27,7 +27,7 @@ function AppLogin() {
       password: account.password,
     })
       .then(function (response) {
-        if (response.data.email == "admin@admin123") {
+        if (response.data.email == "admin@admin") {
           localStorage.setItem("login", "admin");
           document.location.href = "/admin";
         } else {
