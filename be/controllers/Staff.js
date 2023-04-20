@@ -4,6 +4,7 @@ class Staff {
   sendOtp(req, res, next) {
     StaffModel.findOne({
       email: req.body.email,
+      state: true,
     })
       .then((result) => {
         if (req.body.state) {
@@ -59,24 +60,48 @@ class Staff {
   }
 
   login(req, res, next) {
-    StaffModel.findOne({ email: req.body.email, password: req.body.password })
-      .then((result) => {
-        res.json(result);
+    if (req.body.email == "admin@admin") {
+      StaffModel.findOne({ email: req.body.email, password: req.body.password })
+        .then((result) => {
+          res.json(result);
+        })
+        .catch((err) => {
+          res.json(err);
+        });
+    } else {
+      StaffModel.findOne({
+        email: req.body.email,
+        password: req.body.password,
+        state: true,
+      })
+        .then((result) => {
+          res.json(result);
+        })
+        .catch((err) => {
+          res.json(err);
+        });
+    }
+  }
+
+  signup(req, res, next) {
+    StaffModel.findOne({ email: req.body.email })
+      .then((staff) => {
+        if (staff) res.status(404).send("Email đã tồn tại");
+        else {
+          const staff = req.body;
+          const newStaff = new StaffModel(staff);
+          newStaff.save();
+          res.json(staff);
+        }
       })
       .catch((err) => {
         res.json(err);
       });
   }
-
-  signup(req, res, next) {
-    const staff = req.body;
-    const newStaff = new StaffModel(staff);
-    newStaff.save();
-    res.json(staff);
-  }
   logInOrSingInWithGoogle(req, res, next) {
     StaffModel.findOne({
       email: req.body.email,
+      state: true,
     })
       .then((result) => {
         if (result) {
@@ -94,7 +119,7 @@ class Staff {
   }
 
   resetPassword(req, res, next) {
-    StaffModel.findOne({ email: req.body.email })
+    StaffModel.findOne({ email: req.body.email, state: true })
       .then((result) => {
         if (result) {
           const options = {
