@@ -2,7 +2,7 @@
   padding: 0 20px 0 20px;
 }
 
-.btn-navigation {
+.btn-add {
   float: right;
   margin: 30px 0;
 }
@@ -28,7 +28,7 @@
   background-color: #f5f5f5;
 }
 
-#delete-staff:hover {
+#destroy-staff:hover {
   background-color: red;
   cursor: pointer;
 }
