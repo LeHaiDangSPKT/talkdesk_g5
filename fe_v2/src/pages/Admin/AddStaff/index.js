@@ -1,14 +1,13 @@
 import React from "react";
-import "./index.css";
 import Button from "../../../component/Button";
 import Axios from "axios";
 
 const AddStaff = () => {
   const staff = JSON.parse(localStorage.getItem("staff"));
   const [inforStaff, setInforStaff] = React.useState({
-    name: staff.name || "",
-    email: staff.email || "",
-    password: staff.password || "",
+    name: staff?.name || "",
+    email: staff?.email || "",
+    password: staff?.password || "",
   });
   const url = window.location.pathname;
   const isAdd = url.includes("add-staff");
