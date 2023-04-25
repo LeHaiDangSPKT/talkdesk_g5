@@ -28,5 +28,42 @@ class Agent {
         res.json(err);
       });
   }
+
+  getAllPhoneNumbers(req, res, next) {
+    AgentModel.distinct('phone')
+      .then((agent) => {
+        res.json(agent);
+      })
+      .catch((err) => {
+        res.json(err);
+      });
+  }
+
+
+    getAllWaitime(req, res, next) {
+      AgentModel.find({}, {waitTime: 1, month: 1, _id: 0})
+        .then((call) => res.json(call))
+        .catch((err) => res.json(err));
+    }
+    
+    getAllStatusTime(req, res, next) {
+      AgentModel.find({}, {statusTime: 1, _id: 0})
+        .then((call) => res.json(call))
+        .catch((err) => res.json(err));
+    }
+
+    getAllStatus(req, res, next) {
+      AgentModel.find({}, {status: 1, month: 1, statusTime: 1, _id: 0})
+        .then((call) => res.json(call))
+        .catch((err) => res.json(err));
+    }
+
+    getAllPhoneNumbersAndMonth(req, res, next) {
+      AgentModel.find({}, {phone: 1, month: 1, _id: 0})
+        .then((call) => res.json(call))
+        .catch((err) => res.json(err));
+    }
+  
+
 }
 module.exports = new Agent();

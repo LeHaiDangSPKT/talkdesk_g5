@@ -16,7 +16,7 @@ const AddCall = () => {
     Axios.post(`${process.env.REACT_APP_API}/call/addCall`, inforCall)
       .then((res) => {
         alert("Thêm call thành công");
-        window.location.href = "/admin";
+        window.location.href = "/admin/add-call";
       })
       .catch((err) => {
         console.log("abc");
