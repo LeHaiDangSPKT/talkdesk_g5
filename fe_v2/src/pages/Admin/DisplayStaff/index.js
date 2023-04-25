@@ -87,9 +87,34 @@ const DisplayStaff = () => {
     document.location.href = "/admin/display-deleted-staff";
   };
 
+  const Search = () => {
+    const input = document.querySelector(".search-staff input");
+    const filter = input.value.toUpperCase();
+    const table = document.querySelector(".staff-table");
+    const tr = table.getElementsByTagName("tr");
+    for (let i = 0; i < tr.length; i++) {
+      const td = tr[i].getElementsByTagName("td")[1];
+      if (td) {
+        const textValue = td.textContent || td.innerText;
+        if (textValue.toUpperCase().indexOf(filter) > -1) {
+          tr[i].style.display = "";
+        } else {
+          tr[i].style.display = "none";
+        }
+      }
+    }
+  };
+
   return (
     <div className="container-staff">
       <div className="btn-navigation">
+        <div className="search-staff">
+          <input
+            type="text"
+            placeholder="Nhập tên nhân viên cần tìm..."
+            onChange={(e) => Search()}
+          />
+        </div>
         <Button
           text="Danh sách nhân viên bị xóa"
           type={1}
