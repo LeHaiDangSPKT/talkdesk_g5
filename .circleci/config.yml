@@ -1,6 +1,7 @@
 version: 2.1
 
 orbs:
+<<<<<<< HEAD
   docker: circleci/docker@2.2.0 
 
 jobs:
@@ -24,8 +25,16 @@ jobs:
           docker build -t vohongkhang/react-app:1.0.3 .
           docker login -u $DOCKERHUB_USERNAME -p $DOCKERHUB_PASSWORD
           docker push vohongkhang/react-app:1.0.3
+=======
+  docker: circleci/docker@1.1.0
+  node: circleci/node@3.0.0
+>>>>>>> eb7af88f084cc5edbc98a0bbb17efcfa01c239c0
 
 workflows:
   build-and-deploy:
     jobs:
+<<<<<<< HEAD
     - build
+=======
+      - node/test
+>>>>>>> eb7af88f084cc5edbc98a0bbb17efcfa01c239c0
