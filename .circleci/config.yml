@@ -9,8 +9,8 @@ jobs:
       - run:
           name: Build and tag Docker image
           command: |
-            docker build -t my-app .
-            docker tag my-app my-registry/my-app:$CIRCLE_SHA1
+            docker build -t fe .
+            docker tag fe
   deploy:
     docker:
       - image: docker:latest
@@ -23,7 +23,7 @@ jobs:
             echo $DOCKERHUB_PASSWORD | docker login --username $DOCKERHUB_USERNAME --password-stdin
             docker push my-registry/my-app:$CIRCLE_SHA1
           environment:
-            DOCKERHUB_USERNAME: my-username
+            DOCKERHUB_USERNAME: $DOCKERHUB_USERNAME
             DOCKERHUB_PASSWORD: $DOCKERHUB_PASSWORD
 workflows:
   version: 2
