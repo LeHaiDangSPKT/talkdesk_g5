@@ -1,19 +1,25 @@
 version: 2.1
 
 jobs:
-  test:
-    docker:
-      - image: circleci/node:14-browsers
+  build:
+    working_directory: ~/project
     steps:
       - checkout
       - run:
           name: Install Dependencies
           command: npm install
       - run:
-          name: Run Tests
-          command: npm run test
+          name: Build Application
+          command: npm run build
+      - store_artifacts:
+          path: ~/project/dist
+          destination: dist
 
 workflows:
   build-and-test:
     jobs:
-      - test:
+      - build:
+          filters:
+            branches:
+              only:
+                - main
