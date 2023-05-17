@@ -2,8 +2,9 @@ import React from "react";
 import "./index.css";
 import Button from "../../../component/Button";
 import Axios from "axios";
+import RemoveSpecialCharacters from "../../../utils/RemoveSpecialCharacters";
 
-const AddAgent = () => {
+const AddAgent = (props) => {
   const [newAgent, setNewAgent] = React.useState({
     name: "",
     ringGroup: "",
@@ -63,7 +64,7 @@ const AddAgent = () => {
       name: "Hủy",
       type: 2,
       onClick: () => {
-        window.location.href = "/admin";
+        props.handleSet(RemoveSpecialCharacters("Admin"));
       },
     },
   ];
