@@ -1,8 +1,9 @@
 import React from "react";
 import Button from "../../../component/Button";
 import Axios from "axios";
+import RemoveSpecialCharacters from "../../../utils/RemoveSpecialCharacters";
 
-const AddStaff = () => {
+const AddStaff = (props) => {
   const staff = JSON.parse(localStorage.getItem("staff"));
   const [inforStaff, setInforStaff] = React.useState({
     name: staff?.name || "",
@@ -20,7 +21,7 @@ const AddStaff = () => {
     Axios.post(`${process.env.REACT_APP_API}/admin/addStaff`, inforStaff)
       .then((res) => {
         alert("Thêm nhân viên thành công");
-        window.location.href = "/admin";
+        props.handleSet(RemoveSpecialCharacters("Admin"));
       })
       .catch((err) => {
         console.log(err);
@@ -38,7 +39,7 @@ const AddStaff = () => {
     )
       .then((res) => {
         alert("Chỉnh sửa nhân viên thành công");
-        window.location.href = "/admin";
+        props.handleSet(RemoveSpecialCharacters("Admin"));
       })
       .catch((err) => {
         console.log(err);
@@ -55,7 +56,7 @@ const AddStaff = () => {
       name: "Hủy",
       type: 2,
       onClick: () => {
-        window.location.href = "/admin";
+        props.handleSet(RemoveSpecialCharacters("Admin"));
       },
     },
   ];

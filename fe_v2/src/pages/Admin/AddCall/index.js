@@ -1,8 +1,9 @@
 import React from "react";
 import Button from "../../../component/Button";
 import Axios from "axios";
+import RemoveSpecialCharacters from "../../../utils/RemoveSpecialCharacters";
 
-const AddCall = () => {
+const AddCall = (props) => {
   const [inforCall, setInforCall] = React.useState({
     answeredCalls: "",
     missedCalls: "",
@@ -16,7 +17,7 @@ const AddCall = () => {
     Axios.post(`${process.env.REACT_APP_API}/call/addCall`, inforCall)
       .then((res) => {
         alert("Thêm call thành công");
-        window.location.href = "/admin/add-call";
+        props.handleSet(RemoveSpecialCharacters("AddCall"));
       })
       .catch((err) => {
         console.log("abc");
@@ -33,7 +34,7 @@ const AddCall = () => {
       name: "Hủy",
       type: 2,
       onClick: () => {
-        window.location.href = "/admin";
+        props.handleSet(RemoveSpecialCharacters("Admin"));
       },
     },
   ];
