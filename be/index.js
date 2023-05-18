@@ -36,7 +36,7 @@ const URL = process.env.DATABASE_URL;
 app.use(express.json());
 app.use(cors());
 mongoose
-  .connect(URL, { dbName: "TalkDeskDB" })
+  .connect(URL, { dbName: "talkDesk" })
   .then(() => console.log("Connect DB successfully!"))
   .then(() =>
     app.listen(port, () => {
