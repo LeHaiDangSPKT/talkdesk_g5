@@ -13,6 +13,7 @@ const AddAgent = (props) => {
     waitTime: "",
     phone: "",
     month: "",
+    content: "",
   });
 
   const [ringGroup, setRingGroup] = React.useState([]);
@@ -38,7 +39,7 @@ const AddAgent = (props) => {
     newAgent.ringGroup = arr + "";
     Axios.post(`${process.env.REACT_APP_API}/agent/addAgent`, newAgent)
       .then((res) => {
-        alert("Thêm thành công");
+        // alert("Thêm thành công");
         setNewAgent({
           name: "",
           ringGroup: "",
@@ -184,6 +185,20 @@ const AddAgent = (props) => {
           type="number"
           value={newAgent.month}
           onChange={(e) => setNewAgent({ ...newAgent, month: +e.target.value })}
+        ></input>
+      </div>
+
+      <div className="input__label__container">
+        <label class="input__label">Content</label>
+        <input
+          placeholder="Nhập nội dung"
+          class="input"
+          name="content"
+          type="text"
+          value={newAgent.content}
+          onChange={(e) =>
+            setNewAgent({ ...newAgent, content: e.target.value })
+          }
         ></input>
       </div>
 

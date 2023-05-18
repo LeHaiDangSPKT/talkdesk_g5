@@ -32,6 +32,7 @@ const SubNavbar = (props) => {
         <li onClick={(e) => HandleClickSubNavbar(e)}>Agents</li>
         <li onClick={(e) => HandleClickSubNavbar(e)}>Numbers</li>
         <li onClick={(e) => HandleClickSubNavbar(e)}>StatisticKeyCall</li>
+        <li onClick={(e) => HandleClickSubNavbar(e)}>StatisticKeyWord</li>
       </ul>
     </div>
   );

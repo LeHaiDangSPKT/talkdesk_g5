@@ -12,6 +12,7 @@ import AddAgent from "../Admin/AddAgent";
 import AddCall from "../Admin/AddCall";
 import AddStaff from "../Admin/AddStaff";
 import DisplayDeletedStaff from "../Admin/DisplayDeletedStaff";
+import StatisticKeyWord from "./StatisticKeyWord";
 
 function RealTimeDashBoard() {
   const [eleNavbar, setEleNavbar] = React.useState(
@@ -34,6 +35,7 @@ function RealTimeDashBoard() {
     Agents: { src: <Agents /> },
     Numbers: { src: <Numbers /> },
     StatisticKeyCall: { src: <StatisticKeyCall /> },
+    StatisticKeyWord: { src: <StatisticKeyWord /> },
   };
 
   return (

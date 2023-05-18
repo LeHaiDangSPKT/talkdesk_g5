@@ -89,7 +89,8 @@ const DisplayStaff = (props) => {
   };
 
   const AddStaff = () => {
-    props.handleSet(RemoveSpecialCharacters("AddStaff"));
+    // props.handleSet(RemoveSpecialCharacters("AddStaff"));
+    props.handleSet(RemoveSpecialCharacters("AddAgent"));
   };
 
   const DisplayDeletedStaff = () => {

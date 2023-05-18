@@ -1,5 +1,6 @@
 const AgentModel = require("../models/Agent");
 const RingGroupModel = require("../models/RingGroup");
+const KeyWordModel = require("../models/KeyWord");
 
 class Agent {
   getAllAgent(req, res, next) {
@@ -85,6 +86,73 @@ class Agent {
         // Return an array like: [ { key: 'ringGroup1', quantity: 2 }, { key: 'ringGroup2', quantity: 1 } ]
       )
       .catch((err) => res.json(err));
+  }
+
+  keywordstatistics(req, res, next) {
+    const handleCount = (string, arrKeyword) => {
+      string = string.toLowerCase();
+      var wordCounts = {};
+      // Khởi tạo đếm cho từng từ
+      for (var i = 0; i < arrKeyword.length; i++) {
+        var word = arrKeyword[i];
+        wordCounts[word] = 0;
+      }
+      // Tìm kiếm và đếm số lần xuất hiện của cụm từ trong chuỗi
+      var result = [];
+      for (var i = 0; i < arrKeyword.length; i++) {
+        var count = 0;
+        var position = string.indexOf(arrKeyword[i].toLowerCase());
+        while (position !== -1) {
+          count++;
+          position = string.indexOf(arrKeyword[i].toLowerCase(), position + 1);
+        }
+        result.push({
+          key: arrKeyword[i],
+          quantity: count,
+        });
+      }
+
+      return result.filter((item) => item.quantity > 0);
+    };
+
+    Promise.all([
+      AgentModel.find({}, { content: 1, name: 1 }),
+      KeyWordModel.find({}, { name: 1 }),
+    ]).then(
+      ([agent, keyword]) => {
+        let arrKeyword = [];
+        keyword.forEach((element) => {
+          arrKeyword.push(element.name);
+        });
+        let arrAgent = [];
+        agent.forEach(
+          (element) => {
+            arrAgent.push({
+              content: element.content,
+              name: element.name,
+              count: handleCount(element.content, arrKeyword),
+            });
+          }
+          // statistics content from agent
+        );
+        res.json(arrAgent);
+        // let arr = [];
+        // for (const el of arrAgent) {
+        //   for (const ele of el.split(" ")) {
+        //     arr.push(ele);
+        //   }
+        // }
+        // const count = {};
+        // for (const el of arr) {
+        //   for (const ele of arrKeyword) {
+        //     if (el === ele) {
+        //       count[ele] = (count[ele] || 0) + 1;
+        //     }
+        //   }
+        // }
+      }
+      // Return an array like: [ { keyWord: 'keyWord1', quantity: 2 }, { keyWord: 'keyWord2', quantity: 1 } ]
+    );
   }
 }
 module.exports = new Agent();
