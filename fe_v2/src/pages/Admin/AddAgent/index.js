@@ -39,7 +39,7 @@ const AddAgent = (props) => {
     newAgent.ringGroup = arr + "";
     Axios.post(`${process.env.REACT_APP_API}/agent/addAgent`, newAgent)
       .then((res) => {
-        // alert("Thêm thành công");
+        alert("Thêm thành công");
         setNewAgent({
           name: "",
           ringGroup: "",
@@ -190,7 +190,7 @@ const AddAgent = (props) => {
 
       <div className="input__label__container">
         <label class="input__label">Content</label>
-        <input
+        <textarea
           placeholder="Nhập nội dung"
           class="input"
           name="content"
@@ -199,7 +199,7 @@ const AddAgent = (props) => {
           onChange={(e) =>
             setNewAgent({ ...newAgent, content: e.target.value })
           }
-        ></input>
+        ></textarea>
       </div>
 
       <div style={{ margin: "20px 0 0 -20px" }}>
