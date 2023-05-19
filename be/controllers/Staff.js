@@ -19,7 +19,6 @@ class Staff {
           }
           result = !result;
         }
-        console.log(result);
         if (result) {
           res.status(404).send("Email đã tồn tại");
         } else {

@@ -1,26 +1,21 @@
 import React from "react";
 import Button from "../../../component/Button";
 import Axios from "axios";
+import RemoveSpecialCharacters from "../../../utils/RemoveSpecialCharacters";
 
-const AddStaff = () => {
+const AddStaff = (props) => {
   const staff = JSON.parse(localStorage.getItem("staff"));
   const [inforStaff, setInforStaff] = React.useState({
     name: staff?.name || "",
     email: staff?.email || "",
     password: staff?.password || "",
   });
-  const url = window.location.pathname;
-  const isAdd = url.includes("add-staff");
-
+  const isAdd = localStorage.getItem("mode") == "add" ? true : false;
   const addStaff = (e) => {
-    if (!inforStaff.email.includes("@student.hcmute.edu.vn")) {
-      alert("Email phải thuộc hệ thống HCMUTE");
-      return;
-    }
     Axios.post(`${process.env.REACT_APP_API}/admin/addStaff`, inforStaff)
       .then((res) => {
         alert("Thêm nhân viên thành công");
-        window.location.href = "/admin";
+        props.handleSet(RemoveSpecialCharacters("Admin"));
       })
       .catch((err) => {
         console.log(err);
@@ -28,17 +23,13 @@ const AddStaff = () => {
   };
 
   const editStaff = (e) => {
-    if (!inforStaff.email.includes("@student.hcmute.edu.vn")) {
-      alert("Email phải thuộc hệ thống HCMUTE");
-      return;
-    }
     Axios.put(
       `${process.env.REACT_APP_API}/admin/editStaff/${staff._id}`,
       inforStaff
     )
       .then((res) => {
         alert("Chỉnh sửa nhân viên thành công");
-        window.location.href = "/admin";
+        props.handleSet(RemoveSpecialCharacters("Admin"));
       })
       .catch((err) => {
         console.log(err);
@@ -55,7 +46,8 @@ const AddStaff = () => {
       name: "Hủy",
       type: 2,
       onClick: () => {
-        window.location.href = "/admin";
+        localStorage.removeItem("staff");
+        props.handleSet(RemoveSpecialCharacters("Admin"));
       },
     },
   ];
