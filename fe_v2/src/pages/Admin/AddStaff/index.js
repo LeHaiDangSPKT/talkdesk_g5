@@ -14,10 +14,6 @@ const AddStaff = (props) => {
   const isAdd = url.includes("add-staff");
 
   const addStaff = (e) => {
-    if (!inforStaff.email.includes("@student.hcmute.edu.vn")) {
-      alert("Email phải thuộc hệ thống HCMUTE");
-      return;
-    }
     Axios.post(`${process.env.REACT_APP_API}/admin/addStaff`, inforStaff)
       .then((res) => {
         alert("Thêm nhân viên thành công");
@@ -29,10 +25,6 @@ const AddStaff = (props) => {
   };
 
   const editStaff = (e) => {
-    if (!inforStaff.email.includes("@student.hcmute.edu.vn")) {
-      alert("Email phải thuộc hệ thống HCMUTE");
-      return;
-    }
     Axios.put(
       `${process.env.REACT_APP_API}/admin/editStaff/${staff._id}`,
       inforStaff
