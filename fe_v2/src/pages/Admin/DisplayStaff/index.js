@@ -43,6 +43,7 @@ const DisplayStaff = (props) => {
   };
 
   const editStaff = (staff) => {
+    localStorage.setItem("mode", "edit");
     localStorage.setItem("staff", JSON.stringify(staff));
     props.handleSet(RemoveSpecialCharacters("AddStaff"));
   };
@@ -89,6 +90,7 @@ const DisplayStaff = (props) => {
   };
 
   const AddStaff = () => {
+    localStorage.setItem("mode", "add");
     props.handleSet(RemoveSpecialCharacters("AddStaff"));
     // props.handleSet(RemoveSpecialCharacters("AddAgent"));
   };

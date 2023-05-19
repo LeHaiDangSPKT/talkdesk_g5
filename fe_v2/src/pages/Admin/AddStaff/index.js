@@ -10,9 +10,7 @@ const AddStaff = (props) => {
     email: staff?.email || "",
     password: staff?.password || "",
   });
-  const url = window.location.pathname;
-  const isAdd = url.includes("add-staff");
-
+  const isAdd = localStorage.getItem("mode") == "add" ? true : false;
   const addStaff = (e) => {
     Axios.post(`${process.env.REACT_APP_API}/admin/addStaff`, inforStaff)
       .then((res) => {
@@ -48,6 +46,7 @@ const AddStaff = (props) => {
       name: "Hủy",
       type: 2,
       onClick: () => {
+        localStorage.removeItem("staff");
         props.handleSet(RemoveSpecialCharacters("Admin"));
       },
     },
