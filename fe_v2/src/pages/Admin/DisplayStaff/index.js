@@ -44,7 +44,7 @@ const DisplayStaff = (props) => {
 
   const editStaff = (staff) => {
     localStorage.setItem("staff", JSON.stringify(staff));
-    document.location.href = "/admin/edit-staff";
+    props.handleSet(RemoveSpecialCharacters("AddStaff"));
   };
 
   const handleDelete = (idStaff, nameStaff) => {
@@ -89,8 +89,8 @@ const DisplayStaff = (props) => {
   };
 
   const AddStaff = () => {
-    // props.handleSet(RemoveSpecialCharacters("AddStaff"));
-    props.handleSet(RemoveSpecialCharacters("AddAgent"));
+    props.handleSet(RemoveSpecialCharacters("AddStaff"));
+    // props.handleSet(RemoveSpecialCharacters("AddAgent"));
   };
 
   const DisplayDeletedStaff = () => {
