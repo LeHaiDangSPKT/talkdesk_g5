@@ -32,7 +32,7 @@ jobs:
           host: 54.173.217.245 
           #${{ secrets.HOST }}
           username: ec2-user
-          ${{ secrets.USERNAME }}
+          #${{ secrets.USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           script: |
