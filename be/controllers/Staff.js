@@ -19,7 +19,9 @@ class Staff {
           }
           result = !result;
         }
-        if (result) {
+        if (result && req.body.state) {
+          res.status(404).send("Email này không có trong hệ thống");
+        } else if (result) {
           res.status(404).send("Email đã tồn tại");
         } else {
           const options = {
