@@ -1,7 +1,7 @@
 name: Talk Desk CI
 on:
   push:
-    branches: [Thanh]
+    branches: [main]
 jobs:
   docker:
     runs-on: ubuntu-latest
