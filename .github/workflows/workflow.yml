@@ -21,10 +21,10 @@ jobs:
           script: |
             if [ -d "talkdesk_g5" ]; then
               cd talkdesk_g5
-              git pull origin Thanh
+              git pull origin main
               cd ~
             else
-                git clone -b Thanh https://github.com/LeHaiDangSPKT/talkdesk_g5.git
+                git clone -b main https://github.com/LeHaiDangSPKT/talkdesk_g5.git
             fi
       - name: Run back-end and front-end
         uses: appleboy/ssh-action@master
