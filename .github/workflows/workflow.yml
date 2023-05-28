@@ -12,10 +12,10 @@ jobs:
       - name: Deploy to server
         uses: appleboy/ssh-action@master
         with:
-          host: 54.173.217.245 
-          #host: ${{ secrets.HOST }}
-          username: ec2-user
-          #username: ${{ secrets.USERNAME }}
+          #host: 54.173.217.245 
+          host: ${{ secrets.HOST }}
+          #username: ec2-user
+          username: ${{ secrets.USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           script: |
@@ -30,10 +30,10 @@ jobs:
       - name: Run back-end and front-end
         uses: appleboy/ssh-action@master
         with:
-          host: 54.173.217.245 
-          #host: ${{ secrets.HOST }}
-          username: ec2-user
-          #username: ${{ secrets.USERNAME }}
+          #host: 54.173.217.245 
+          host: ${{ secrets.HOST }}
+          #username: ec2-user
+          username: ${{ secrets.USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           script: |
