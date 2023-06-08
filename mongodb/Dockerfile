@@ -1,11 +1,11 @@
 FROM mongo:latest
 
-COPY ./data ./data
+COPY ./data_dump /data_dump
 
-CMD mongoimport --host mongo_db --db my_db --collection talkDesk.agents --type json --file /data/talkDesk.agents.json --jsonArray \
-    && mongoimport --host mongo_db --db my_db --collection talkDesk.calls --type json --file /data/talkDesk.calls.json --jsonArray \
-    && mongoimport --host mongo_db --db my_db --collection talkDesk.customers --type json --file /data/talkDesk.customers.json --jsonArray \
-    && mongoimport --host mongo_db --db my_db --collection talkDesk.keywords --type json --file /data/talkDesk.keywords.json --jsonArray \
-    && mongoimport --host mongo_db --db my_db --collection talkDesk.ringgroups --type json --file /data/talkDesk.ringgroups.json --jsonArray \
-    && mongoimport --host mongo_db --db my_db --collection talkDesk.staffs --type json --file /data/talkDesk.staffs.json --jsonArray \
-    && mongoimport --host mongo_db --db my_db --collection talkDesk.statusagents --type json --file /data/talkDesk.statusagents.json --jsonArray
+CMD mongoimport --host mongo_db --db my_db --collection agents --type json --file /data_dump/agents.json --jsonArray \
+    && mongoimport --host mongo_db --db my_db --collection calls --type json --file /data_dump/calls.json --jsonArray \
+    && mongoimport --host mongo_db --db my_db --collection customers --type json --file /data_dump/customers.json --jsonArray \
+    && mongoimport --host mongo_db --db my_db --collection keywords --type json --file /data_dump/keywords.json --jsonArray \
+    && mongoimport --host mongo_db --db my_db --collection ringgroups --type json --file /data_dump/ringgroups.json --jsonArray \
+    && mongoimport --host mongo_db --db my_db --collection staffs --type json --file /data_dump/staffs.json --jsonArray \
+    && mongoimport --host mongo_db --db my_db --collection statusagents --type json --file /data_dump/statusagents.json --jsonArray

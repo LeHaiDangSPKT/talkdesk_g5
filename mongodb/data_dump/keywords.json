@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6465d85581d5ac9947e4aa9f"
+  },
+  "name": "Công nghệ"
+},
+{
+  "_id": {
+    "$oid": "6465d87881d5ac9947e4aaa0"
+  },
+  "name": "Xanh lá cây"
+},
+{
+  "_id": {
+    "$oid": "6465d88481d5ac9947e4aaa1"
+  },
+  "name": "Hạnh phúc"
+},
+{
+  "_id": {
+    "$oid": "6465d88e81d5ac9947e4aaa2"
+  },
+  "name": "Du lịch"
+},
+{
+  "_id": {
+    "$oid": "6465d89f81d5ac9947e4aaa3"
+  },
+  "name": "Âm nhạc"
+},
+{
+  "_id": {
+    "$oid": "6465d8a981d5ac9947e4aaa4"
+  },
+  "name": "Thể thao"
+},
+{
+  "_id": {
+    "$oid": "6465d8bd81d5ac9947e4aaa5"
+  },
+  "name": "Sức khỏe"
+},
+{
+  "_id": {
+    "$oid": "6465d8ce81d5ac9947e4aaa6"
+  },
+  "name": "Đổi mới"
+},
+{
+  "_id": {
+    "$oid": "6465d8d581d5ac9947e4aaa7"
+  },
+  "name": "Trí tuệ nhân tạo"
+},
+{
+  "_id": {
+    "$oid": "6465d8df81d5ac9947e4aaa8"
+  },
+  "name": "Năng lượng tái tạo"
+},
+{
+  "_id": {
+    "$oid": "6465d8e781d5ac9947e4aaa9"
+  },
+  "name": "Thiên nhiên"
+},
+{
+  "_id": {
+    "$oid": "6465d8ef81d5ac9947e4aaaa"
+  },
+  "name": "Khoa học"
+},
+{
+  "_id": {
+    "$oid": "6465d8f881d5ac9947e4aaab"
+  },
+  "name": "Môi trường"
+},
+{
+  "_id": {
+    "$oid": "6465d90081d5ac9947e4aaac"
+  },
+  "name": "Mạng xã hội"
+},
+{
+  "_id": {
+    "$oid": "6465d90a81d5ac9947e4aaad"
+  },
+  "name": "Giáo dục"
+},
+{
+  "_id": {
+    "$oid": "6465d91281d5ac9947e4aaae"
+  },
+  "name": "Khởi nghiệp"
+},
+{
+  "_id": {
+    "$oid": "6465d91a81d5ac9947e4aaaf"
+  },
+  "name": "Kỹ năng mềm"
+},
+{
+  "_id": {
+    "$oid": "6465d92681d5ac9947e4aab0"
+  },
+  "name": "Điện tử"
+},
+{
+  "_id": {
+    "$oid": "6465d92f81d5ac9947e4aab1"
+  },
+  "name": "Phát triển bền vững"
+},
+{
+  "_id": {
+    "$oid": "6465d93681d5ac9947e4aab2"
+  },
+  "name": "Văn hóa"
+}]
