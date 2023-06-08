@@ -1,0 +1,2000 @@
+[{
+  "_id": {
+    "$oid": "64664939f81336c56adf20fc"
+  },
+  "name": "Vũ Trung Kiên",
+  "ringGroup": "English,Billing,TS",
+  "status": 1,
+  "statusTime": 552,
+  "waitTime": 54,
+  "phone": "0876137957",
+  "month": 4,
+  "content": "Công nghệ mới đem lại sự đổi mới cho ngành công nghiệp. Chào bạn! Tất nhiên, hiện nay có nhiều xu hướng công nghệ đáng chú ý như trí tuệ nhân tạo, Internet of Things (IoT), thực tế ảo và mở rộng (AR/VR), và blockchain. ",
+  "createdAt": {
+    "$date": "2023-05-18T15:50:17.143Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:50:17.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6466493df81336c56adf2104"
+  },
+  "name": "Nguyễn Trọng Triết",
+  "ringGroup": "Billing,Sale,TS,Sale Line",
+  "status": 3,
+  "statusTime": 907,
+  "waitTime": 45,
+  "phone": "0687419657",
+  "month": 4,
+  "content": "Tôi muốn tìm hiểu về ứng dụng công nghệ trong lĩnh vực y tế. Bạn có thể giúp tôi không?Tất nhiên! Công nghệ đã có những đóng góp quan trọng trong lĩnh vực y tế như hồ sơ điện tử, teledoc, thiết bị y tế thông minh, và phân tích dữ liệu y tế.",
+  "createdAt": {
+    "$date": "2023-05-18T15:50:21.548Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:50:21.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664941f81336c56adf210c"
+  },
+  "name": "Lữ Khánh Hoàng",
+  "ringGroup": "Orders,Sale,CS,TS",
+  "status": 3,
+  "statusTime": 608,
+  "waitTime": 51,
+  "phone": "0868585743",
+  "month": 8,
+  "content": "Có những mối liên kết nào giữa công nghệ và giáo dục?Công nghệ đã thay đổi cách chúng ta tiếp cận giáo dục. Ví dụ, có sự phát triển của học trực tuyến, ứng dụng di động trong giảng dạy và học tập, và công cụ phân tích dữ liệu giúp cải thiện quá trình giảng dạy. ",
+  "createdAt": {
+    "$date": "2023-05-18T15:50:25.822Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:50:25.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664949f81336c56adf211a"
+  },
+  "name": "Hồ Văn Tấn",
+  "ringGroup": "Orders,English,Sale,Sale Line",
+  "status": 3,
+  "statusTime": 750,
+  "waitTime": 27,
+  "phone": "0746289741",
+  "month": 12,
+  "content": "Công nghệ đóng vai trò quan trọng trong phát triển năng lượng tái tạo như thế nào? Công nghệ đóng góp rất lớn trong phát triển năng lượng tái tạo. Ví dụ, chúng ta có thể sử dụng công nghệ mặt trời để thu thập và chuyển đổi năng lượng mặt trời thành điện, sử dụng hệ thống thông minh để tối ưu hóa việc tiêu thụ năng lượng, và ứng dụng trí tuệ nhân tạo để phân tích dữ liệu và dự báo hiệu suất năng lượng tái tạo. ",
+  "createdAt": {
+    "$date": "2023-05-18T15:50:33.210Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:50:33.210Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6466494ef81336c56adf2122"
+  },
+  "name": "Hà Đình Đức Huy",
+  "ringGroup": "Orders,English,Billing,Sale",
+  "status": 4,
+  "statusTime": 562,
+  "waitTime": 20,
+  "phone": "0854793114",
+  "month": 8,
+  "content": "Công nghệ đã ảnh hưởng như thế nào đến ngành công nghiệp?Công nghệ đã có ảnh hưởng sâu sắc đến ngành công nghiệp. Với sự phát triển của trí tuệ nhân tạo và tự động hóa, chúng ta đã thấy sự tăng cường hiệu suất và sự linh hoạt trong quy trình sản xuất. Công nghệ cũng đã mở ra cánh cửa cho sự phát triển của ngành công nghiệp 4.0, với việc kết nối các hệ thống thông qua Internet of Things (IoT), sử dụng dữ liệu để đưa ra quyết định thông minh và áp dụng các công nghệ mới như trực tuyến, trí tuệ nhân tạo và blockchain trong các ngành công nghiệp khác nhau. ",
+  "createdAt": {
+    "$date": "2023-05-18T15:50:38.150Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:50:38.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664952f81336c56adf212a"
+  },
+  "name": "Trương Văn Đắc",
+  "ringGroup": "Sale,CS,Sale Line",
+  "status": 3,
+  "statusTime": 210,
+  "waitTime": 29,
+  "phone": "0874628941",
+  "month": 3,
+  "content": "Tôi muốn biết về tầm quan trọng của việc bảo vệ môi trường và cây xanh lá cây trong thành phố.Đúng vậy! Cây xanh lá cây đóng vai trò quan trọng trong việc cải thiện chất lượng không khí, hấp thụ khí CO2 và cung cấp bóng mát. Việc bảo vệ môi trường và cây xanh trong thành phố giúp tạo ra môi trường sống tươi đẹp và lành mạnh cho cộng đồng. ",
+  "createdAt": {
+    "$date": "2023-05-18T15:50:42.566Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:50:42.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664957f81336c56adf2132"
+  },
+  "name": "Nguyễn Văn Minh Nhật",
+  "ringGroup": "Billing,CS,TS",
+  "status": 1,
+  "statusTime": 684,
+  "waitTime": 19,
+  "phone": "0876197435",
+  "month": 5,
+  "content": "Tôi nghe nói việc trồng cây xanh lá cây trong sân vườn có thể giúp giảm nhiệt độ xung quanh. Điều đó có đúng không?Đúng vậy! Cây xanh lá cây có khả năng hấp thụ nhiệt từ mặt đất và tạo bóng mát. Việc trồng cây trong sân vườn không chỉ giúp giảm nhiệt độ xung quanh mà còn làm giảm tác động của ánh nắng mặt trời và làm mát không gian.",
+  "createdAt": {
+    "$date": "2023-05-18T15:50:47.003Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:50:47.003Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6466495bf81336c56adf213a"
+  },
+  "name": "Trần Thành An",
+  "ringGroup": "CS",
+  "status": 3,
+  "statusTime": 318,
+  "waitTime": 36,
+  "phone": "0854793114",
+  "month": 9,
+  "content": "Tôi muốn biết về các loại cây xanh lá cây phổ biến để trồng trong nhà.Rất tốt! Có nhiều loại cây xanh lá cây phổ biến và thích hợp để trồng trong nhà như cây lưỡi hổ, cây treo dây, cây cỏ may mắn và cây lá sen. Những loại cây này không chỉ tạo ra không gian xanh mát trong nhà mà còn giúp tăng cường chất lượng không khí bằng cách hấp thụ các chất gây ô nhiễm.",
+  "createdAt": {
+    "$date": "2023-05-18T15:50:51.394Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:50:51.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664960f81336c56adf2142"
+  },
+  "name": "Hà Quang Diệu",
+  "ringGroup": "Sale Line",
+  "status": 4,
+  "statusTime": 979,
+  "waitTime": 26,
+  "phone": "0687419657",
+  "month": 12,
+  "content": "Xin chào! Tôi quan tâm đến tầm quan trọng của cây xanh lá cây trong cuộc sống hàng ngày. Bạn có thể chia sẻ với tôi về điều này được không?Chào bạn! Tất nhiên, cây xanh lá cây đóng vai trò quan trọng trong cuộc sống hàng ngày của chúng ta. Đầu tiên, cây xanh làm gia tăng nồng độ oxy trong không khí bằng quá trình quang hợp, cung cấp không khí tươi mát và trong lành. Hơn nữa, cây xanh giúp làm giảm nhiệt độ xung quanh và tạo bóng mát, là một biện pháp hữu ích trong việc giảm sự ảnh hưởng của ánh nắng mặt trời và giữ cho không gian mát mẻ hơn.",
+  "createdAt": {
+    "$date": "2023-05-18T15:50:56.172Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:50:56.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664964f81336c56adf214a"
+  },
+  "name": "Đào Hiếu",
+  "ringGroup": "English,Billing,Sale,TS",
+  "status": 4,
+  "statusTime": 1160,
+  "waitTime": 54,
+  "phone": "0687419657",
+  "month": 2,
+  "content": "Thật tuyệt! Tôi cũng nghe nói rằng cây xanh còn giúp hấp thụ các chất gây ô nhiễm trong không khí. Điều đó có đúng không?Chính xác! Cây xanh lá cây có khả năng hấp thụ các chất gây ô nhiễm như khí NO2, SO2, và CO2 từ không khí xung quanh. Qua quá trình quang hợp, cây xanh chuyển đổi khí CO2 thành oxy và carbon trong quá trình sinh tổng hợp thực vật. Điều này giúp cải thiện chất lượng không khí và giảm lượng khí CO2 gây hiệu ứng nhà kính.",
+  "createdAt": {
+    "$date": "2023-05-18T15:51:00.767Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:51:00.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664969f81336c56adf2152"
+  },
+  "name": "Nguyễn Trần Quốc Duy",
+  "ringGroup": "Sale,TS,Sale Line",
+  "status": 4,
+  "statusTime": 908,
+  "waitTime": 52,
+  "phone": "0868585743",
+  "month": 5,
+  "content": "Thật tuyệt vời! Tôi muốn đóng góp vào việc xanh hơn môi trường xung quanh bằng cách trồng thêm cây xanh trong khu vườn của mình. Bạn có gợi ý về những loại cây xanh lá cây phổ biến và dễ trồng không?Tất nhiên! Một số loại cây xanh lá cây phổ biến và dễ trồng bao gồm cây hoa hồng, cây cỏ may mắn, cây lá sen, cây xương rồng và cây lưỡi hổ. Những cây này có khả năng thích ứng tốt với nhiều điều kiện sống và không yêu cầu quá nhiều chăm sóc đặc biệt. Bạn có thể chọn những loại cây này để bổ sung vào khu vườn của mình.",
+  "createdAt": {
+    "$date": "2023-05-18T15:51:05.475Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:51:05.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6466496ef81336c56adf215a"
+  },
+  "name": "Nguyễn Thành Đô",
+  "ringGroup": "Billing,CS,TS",
+  "status": 3,
+  "statusTime": 558,
+  "waitTime": 27,
+  "phone": "0874165477",
+  "month": 4,
+  "content": "Hạnh phúc là gì đối với bạn?Hạnh phúc là trạng thái tâm lý của sự hài lòng, an lành và đầy niềm vui. Nó là sự cảm nhận tích cực và thỏa mãn về cuộc sống và tình cảm. Hạnh phúc có thể đến từ nhiều nguồn khác nhau, như thành công, tình yêu, sự hòa thuận trong quan hệ, và việc tận hưởng những khoảnh khắc đáng trân trọng. Bạn có cách riêng để tạo ra hạnh phúc trong cuộc sống của mình không?",
+  "createdAt": {
+    "$date": "2023-05-18T15:51:10.080Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:51:10.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664972f81336c56adf2162"
+  },
+  "name": "Nguyễn Phúc Minh",
+  "ringGroup": "Orders",
+  "status": 2,
+  "statusTime": 58,
+  "waitTime": 16,
+  "phone": "0387465297",
+  "month": 8,
+  "content": "Tôi muốn tìm hiểu về các yếu tố quan trọng để đạt được hạnh phúc trong cuộc sống hàng ngày. Đúng vậy! Để đạt được hạnh phúc trong cuộc sống hàng ngày, có một số yếu tố quan trọng như tình yêu và quan hệ tốt với người thân, sự đồng cảm và kết nối xã hội, sự đồng nghiệp và thành tựu trong công việc, sức khỏe và sự cân bằng trong cuộc sống, cũng như khả năng tận hưởng và đánh giá cao những điều tích cực trong cuộc sống. Bạn đã thực hiện những gì để đạt được hạnh phúc trong cuộc sống hàng ngày của mình?",
+  "createdAt": {
+    "$date": "2023-05-18T15:51:14.680Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:51:14.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664977f81336c56adf216a"
+  },
+  "name": "Trần Quốc Trung",
+  "ringGroup": "English,CS",
+  "status": 2,
+  "statusTime": 154,
+  "waitTime": 51,
+  "phone": "0387465297",
+  "month": 7,
+  "content": "Tôi quan tâm đến khái niệm \"\"hạnh phúc trong bản thân\"\". Bạn có thể chia sẻ với tôi về điều này được không?Tất nhiên! Hạnh phúc trong bản thân là trạng thái cảm xúc và tâm trạng tích cực mà chúng ta cảm thấy về bản thân mình. Để đạt được hạnh phúc trong bản thân, chúng ta có thể tập trung vào việc chăm sóc sức khỏe tinh thần và thể chất, phát triển kỹ năng và sở thích cá nhân, đặt mục tiêu và đạt được sự tự thỏa mãn, và tạo ra sự cân bằng và sự hài hòa trong cuộc sống. Bạn đã tìm thấy cách để đạt được hạnh phúc trong bản thân chưa?",
+  "createdAt": {
+    "$date": "2023-05-18T15:51:19.374Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:51:19.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6466497cf81336c56adf2172"
+  },
+  "name": "Huỳnh Đoàn Minh Ngọc",
+  "ringGroup": "Sale",
+  "status": 3,
+  "statusTime": 1135,
+  "waitTime": 53,
+  "phone": "0975624831",
+  "month": 11,
+  "content": "Tôi thấy hạnh phúc cũng liên quan đến việc sống theo giá trị và ý nghĩa của mình. Bạn có thể cho tôi một số gợi ý về cách tìm ra ý nghĩa trong cuộc sống để cảm nhận hạnh phúc không?Tất nhiên! Tìm ra ý nghĩa trong cuộc sống có thể giúp chúng ta tạo ra hạnh phúc và sự hài lòng. Một số gợi ý để tìm ra ý nghĩa trong cuộc sống bao gồm: tìm hiểu và phát triển đam mê và sở thích cá nhân, tham gia vào các hoạt động tình nguyện và giúp đỡ người khác, tìm kiếm mục tiêu và ý định sống, khám phá và học hỏi về bản thân và thế giới xung quanh, và tạo ra mối quan hệ ý nghĩa và gắn kết với những người xung quanh. Bằng cách thực hiện những điều này, bạn có thể tạo ra hạnh phúc và ý nghĩa đích thực trong cuộc sống của mình.",
+  "createdAt": {
+    "$date": "2023-05-18T15:51:24.264Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:51:24.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664981f81336c56adf217a"
+  },
+  "name": "Huỳnh Xuân Tín",
+  "ringGroup": "CS,TS",
+  "status": 4,
+  "statusTime": 1062,
+  "waitTime": 39,
+  "phone": "0854793114",
+  "month": 2,
+  "content": "Tôi thấy hạnh phúc thường đến từ những khoảnh khắc đơn giản và nhỏ bé trong cuộc sống. Bạn có thể chia sẻ với tôi một số ví dụ về những khoảnh khắc như vậy không?Chắc chắn! Hạnh phúc thường tồn tại trong những khoảnh khắc đơn giản và nhỏ bé trong cuộc sống. Ví dụ, đó có thể là một buổi sáng thức dậy với tia nắng mặt trời len lỏi qua cửa sổ, một bữa ăn ngon bên gia đình và bạn bè, một cuộc hẹn hò vui vẻ, một cuộc đi dạo trên bãi biển hoặc trong công viên, hoặc thậm chí chỉ là một cuộc trò chuyện vui vẻ và chia sẻ cùng người thân yêu. Hạnh phúc không luôn liên quan đến những thành tựu lớn, mà còn xuất hiện trong những điều nhỏ nhặt mà chúng ta thường xuyên bỏ qua.",
+  "createdAt": {
+    "$date": "2023-05-18T15:51:29.137Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:51:29.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664985f81336c56adf2182"
+  },
+  "name": "Nguyễn Thanh Phong",
+  "ringGroup": "Billing,Sale,CS,TS",
+  "status": 2,
+  "statusTime": 962,
+  "waitTime": 43,
+  "phone": "0874628941",
+  "month": 10,
+  "content": "Tôi đang lên kế hoạch cho chuyến du lịch của mình. Bạn có thể chia sẻ với tôi một số địa điểm du lịch nổi tiếng không?Tất nhiên! Có rất nhiều địa điểm du lịch nổi tiếng trên thế giới. Ví dụ như Paris với Tháp Eiffel và Louvre, Bali với biển Nusa Dua và Đảo Ubud, New York với Quảng trường Thời đại và Công viên Trung tâm, Tokyo với Đền Senso-ji và Điện hoàng gia, và Rio de Janeiro với Đền Cristo Redentor và Bãi biển Copacabana. Tùy thuộc vào sở thích của bạn, bạn có thể lựa chọn địa điểm phù hợp với mình để trải nghiệm chuyến du lịch thú vị.",
+  "createdAt": {
+    "$date": "2023-05-18T15:51:33.938Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:51:33.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6466498af81336c56adf218a"
+  },
+  "name": "Nguyễn Hải Nam",
+  "ringGroup": "English,CS,Sale Line",
+  "status": 1,
+  "statusTime": 298,
+  "waitTime": 43,
+  "phone": "0876137957",
+  "month": 11,
+  "content": "Tôi muốn khám phá những địa điểm du lịch gần đây và nổi tiếng ở nước ta. Bạn có thể gợi ý cho tôi không? Chắc chắn! Việt Nam có nhiều địa điểm du lịch nổi tiếng và hấp dẫn. Bạn có thể khám phá Hà Nội với Hồ Gươm và Phố Cổ, Hội An với Cầu Nhật Bản và Làng gốm Thanh Hà, Đà Nẵng với Cầu Rồng và Bán đảo Sơn Trà, Nha Trang với Bãi biển Nha Trang và Đảo Hòn Tằm, và Phú Quốc với Bãi biển Sao và Suối Tranh. Đây chỉ là một số trong số rất nhiều địa điểm đẹp của Việt Nam mà bạn có thể khám phá.",
+  "createdAt": {
+    "$date": "2023-05-18T15:51:38.594Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:51:38.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6466498ff81336c56adf2192"
+  },
+  "name": "Trần Chí Thanh",
+  "ringGroup": "English,Billing,CS",
+  "status": 1,
+  "statusTime": 197,
+  "waitTime": 36,
+  "phone": "0746289741",
+  "month": 9,
+  "content": "Tôi muốn trải nghiệm một cuộc phiêu lưu đầy thú vị trong chuyến du lịch của mình. Bạn có gợi ý cho tôi một số hoạt động phiêu lưu tuyệt vời không?Tất nhiên! Có nhiều hoạt động phiêu lưu thú vị bạn có thể tham gia trong chuyến du lịch của mình. Ví dụ như đi bộ đường dài trên đỉnh núi, tham gia lặn biển để khám phá đáy đại dương, thử thách bản thân bằng việc leo núi hoặc leo núi đá.",
+  "createdAt": {
+    "$date": "2023-05-18T15:51:43.052Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:51:43.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664993f81336c56adf219a"
+  },
+  "name": "Nguyễn Văn Nhật",
+  "ringGroup": "Orders",
+  "status": 4,
+  "statusTime": 585,
+  "waitTime": 17,
+  "phone": "0793582167",
+  "month": 1,
+  "content": "Tôi muốn tìm hiểu về du lịch trải nghiệm và khám phá văn hóa địa phương. Bạn có gợi ý cho tôi những hoạt động văn hóa độc đáo trong chuyến du lịch không?Rất tuyệt! Du lịch trải nghiệm và khám phá văn hóa địa phương là một cách tuyệt vời để hiểu và tôn trọng văn hóa của một địa điểm. Bạn có thể tham gia vào lễ hội địa phương, tham quan di tích lịch sử, học nghệ thuật truyền thống như hát địa phương, múa dân gian hoặc thậm chí tham gia các khóa học về nấu ăn truyền thống. Điều này sẽ giúp bạn trải nghiệm sâu sắc hơn văn hóa độc đáo của địa điểm mà bạn đang ghé thăm.",
+  "createdAt": {
+    "$date": "2023-05-18T15:51:47.693Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:51:47.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664998f81336c56adf21a2"
+  },
+  "name": "Nguyễn Đình Anh Tuấn",
+  "ringGroup": "Billing,TS",
+  "status": 3,
+  "statusTime": 185,
+  "waitTime": 24,
+  "phone": "0868585743",
+  "month": 11,
+  "content": "Tôi muốn khám phá thiên nhiên trong chuyến du lịch của mình. Bạn có thể đề xuất cho tôi những địa điểm thiên nhiên tuyệt đẹp không?Tất nhiên! Thiên nhiên mang đến những cảnh quan tuyệt đẹp và tinh tế. Bạn có thể khám phá Vịnh Hạ Long ở Việt Nam, với những hòn đảo và hang động ngoạn mục, Thác Niagara ở Canada và Mỹ, với vẻ đẹp mê hoặc của dòng nước lớn nhất Bắc Mỹ, hoặc công viên quốc gia Serengeti ở Tanzania, với đàn linh dương châu Phi đồ sộ. Những địa điểm này sẽ mang đến cho bạn những trải nghiệm thiên nhiên tuyệt vời và đáng nhớ.",
+  "createdAt": {
+    "$date": "2023-05-18T15:51:52.362Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:51:52.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6466499df81336c56adf21aa"
+  },
+  "name": "Nguyễn Thị Hiền Diệu",
+  "ringGroup": "Billing,Sale,CS,TS",
+  "status": 3,
+  "statusTime": 303,
+  "waitTime": 20,
+  "phone": "0687419657",
+  "month": 6,
+  "content": "Âm nhạc là một phần quan trọng trong cuộc sống của tôi. Bạn có thể chia sẻ với tôi những lợi ích của việc nghe và tạo ra âm nhạc không?Chắc chắn! Âm nhạc có nhiều lợi ích đáng kể. Nghe và tạo ra âm nhạc có thể giúp giảm căng thẳng, tăng cường tâm trạng tích cực, cải thiện tinh thần và sự tập trung, và thậm chí có thể hỗ trợ quá trình học tập và trí tuệ. Ngoài ra, âm nhạc cũng là một hình thức giao tiếp và thể hiện cảm xúc, giúp chúng ta kết nối với người khác và tạo ra một môi trường gần gũi và đáng yêu.",
+  "createdAt": {
+    "$date": "2023-05-18T15:51:57.016Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:51:57.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649a1f81336c56adf21b2"
+  },
+  "name": "Phạm Thị Minh Hậu",
+  "ringGroup": "English,TS",
+  "status": 1,
+  "statusTime": 1041,
+  "waitTime": 42,
+  "phone": "0876197435",
+  "month": 1,
+  "content": "Tôi muốn khám phá nhiều thể loại âm nhạc khác nhau. Bạn có thể đề xuất cho tôi một số thể loại âm nhạc đa dạng không?Tất nhiên! Có rất nhiều thể loại âm nhạc đa dạng để khám phá. Ví dụ, bạn có thể nghe nhạc Pop, Rock, R&B, Hip-hop, Jazz, Blues, Country, EDM, Classical, Reggae, Latin, và nhiều thể loại khác. Mỗi thể loại âm nhạc mang đến một phong cách và cảm nhận riêng, và bạn có thể tìm thấy những bài hát và nghệ sĩ yêu thích của mình trong mỗi thể loại.",
+  "createdAt": {
+    "$date": "2023-05-18T15:52:01.613Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:52:01.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649a6f81336c56adf21ba"
+  },
+  "name": "Trần Thành An",
+  "ringGroup": "Billing,TS",
+  "status": 1,
+  "statusTime": 781,
+  "waitTime": 38,
+  "phone": "0793582167",
+  "month": 10,
+  "content": "Tôi đang muốn bắt đầu học một nhạc cụ. Bạn có thể gợi ý cho tôi những nhạc cụ phổ biến và thích hợp cho người mới bắt đầu không? Rất tốt! Việc học một nhạc cụ không chỉ mang lại niềm vui mà còn giúp phát triển kỹ năng âm nhạc. Một số nhạc cụ phổ biến và thích hợp cho người mới bắt đầu bao gồm guitar, piano, ukulele, violon, trống, và sáo. Chọn một nhạc cụ mà bạn cảm thấy thích và hứng thú, sau đó tìm hiểu cách chơi và luyện tập dần dần. ",
+  "createdAt": {
+    "$date": "2023-05-18T15:52:06.141Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:52:06.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649abf81336c56adf21c2"
+  },
+  "name": "Nguyễn Phúc Minh",
+  "ringGroup": "English,Sale,CS,Sale Line",
+  "status": 4,
+  "statusTime": 212,
+  "waitTime": 16,
+  "phone": "0868585743",
+  "month": 3,
+  "content": "Tôi muốn tìm hiểu về lịch sử và phát triển của âm nhạc. Bạn có thể chia sẻ với tôi một số thông tin thú vị không?Chắc chắn! Lịch sử âm nhạc rất phong phú và đa dạng. Với hơn 3.000 năm phát triển, âm nhạc đã trải qua nhiều giai đoạn và ảnh hưởng từ các nền văn hóa khác nhau trên khắp thế giới. Ví dụ, âm nhạc cổ đại Hy Lạp được coi là nền tảng của nền âm nhạc phương Tây hiện đại, âm nhạc Baroque của thế kỷ 17-18 với các nhà soạn nhạc như Johann Sebastian Bach và Antonio Vivaldi, và âm nhạc Jazz với nghệ sĩ như Louis Armstrong và Miles Davis. Lịch sử âm nhạc cung cấp một cái nhìn sâu sắc vào sự phát triển và ảnh hưởng của nó trên con người.",
+  "createdAt": {
+    "$date": "2023-05-18T15:52:11.087Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:52:11.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649b0f81336c56adf21ca"
+  },
+  "name": "Vũ Đức Minh",
+  "ringGroup": "English,Billing,CS",
+  "status": 2,
+  "statusTime": 449,
+  "waitTime": 21,
+  "phone": "0854793114",
+  "month": 5,
+  "content": "Âm nhạc có thể ảnh hưởng đến tâm trạng và cảm xúc của chúng ta. Bạn có thể giới thiệu với tôi một số bài hát có tác động tích cực và lạc quan không?Tất nhiên! Có rất nhiều bài hát có tác động tích cực và lạc quan mà bạn có thể nghe. Ví dụ: Happy của Pharrell Williams, Dont Stop Believin  của Journey, Three Little Bird  của Bob Marley, Cant Stop the Feeling  của Justin Timberlake, và Here Comes the Su  của The Beatles. Những bài hát này thường mang thông điệp vui vẻ, hy vọng và khích lệ, và có thể giúp tăng cường tâm trạng tích cực và sự lạc quan. Hãy thử nghe những bài hát này và cảm nhận sự tác động của âm nhạc lên tâm trạng của bạn.",
+  "createdAt": {
+    "$date": "2023-05-18T15:52:16.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:52:16.224Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649b4f81336c56adf21d2"
+  },
+  "name": "Nguyễn Văn Minh Nhật",
+  "ringGroup": "Billing,Sale",
+  "status": 1,
+  "statusTime": 721,
+  "waitTime": 30,
+  "phone": "0975624831",
+  "month": 1,
+  "content": "Tôi đam mê thể thao và muốn tìm hiểu về lợi ích của việc tham gia hoạt động thể thao. Bạn có thể giới thiệu cho tôi không?Tất nhiên! Tham gia hoạt động thể thao có nhiều lợi ích về sức khỏe và tâm lý. Nó giúp cải thiện sức mạnh cơ bắp, đốt cháy calo, tăng cường sự linh hoạt và sự dẻo dai của cơ thể. Thể thao cũng giúp giảm căng thẳng, cải thiện tâm trạng, và tăng cường khả năng tập trung. Ngoài ra, tham gia hoạt động thể thao còn giúp xây dựng kỹ năng xã hội, teamwork và lãnh đạo. Điều này giúp bạn phát triển mối quan hệ tốt với người khác và rèn luyện tinh thần đồng đội.",
+  "createdAt": {
+    "$date": "2023-05-18T15:52:20.963Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:52:20.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649b9f81336c56adf21da"
+  },
+  "name": "Nguyễn Bá Thông",
+  "ringGroup": "Orders,CS",
+  "status": 3,
+  "statusTime": 1144,
+  "waitTime": 33,
+  "phone": "0854793114",
+  "month": 8,
+  "content": "Tôi quan tâm đến việc duy trì sức khỏe tốt. Bạn có thể chia sẻ với tôi một số lời khuyên về cách giữ gìn sức khỏe không?Tất nhiên! Để giữ gìn sức khỏe tốt, bạn nên duy trì một lối sống lành mạnh. Điều này bao gồm việc ăn một chế độ ăn cân đối và giàu dinh dưỡng, tập thể dục đều đặn, đảm bảo đủ giấc ngủ và giảm căng thẳng. Hãy tránh hút thuốc và uống rượu quá mức, và hạn chế tiếp xúc với các chất gây ô nhiễm. Ngoài ra, hãy định kỳ kiểm tra sức khỏe và thăm bác sĩ để phát hiện và điều trị các vấn đề sức khỏe sớm.",
+  "createdAt": {
+    "$date": "2023-05-18T15:52:25.591Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:52:25.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649bef81336c56adf21e2"
+  },
+  "name": "Hỷ A Tiến",
+  "ringGroup": "CS,TS,Sale Line",
+  "status": 4,
+  "statusTime": 255,
+  "waitTime": 19,
+  "phone": "0876137957",
+  "month": 3,
+  "content": "Tôi muốn tìm hiểu về các loại thể thao phổ biến trên thế giới. Bạn có thể liệt kê cho tôi một số ví dụ không?Tất nhiên! Có nhiều loại thể thao phổ biến trên thế giới. Ví dụ, bóng đá, bóng rổ, bóng chày, bóng bàn, cầu lông, quần vợt, bơi lội, chạy bộ, đua xe, đua ngựa, quyền Anh, võ thuật, và nhiều loại thể thao khác. Mỗi loại thể thao mang đến một phong cách và quy tắc chơi riêng, và bạn có thể chọn một loại thể thao mà bạn thích và muốn tham gia.",
+  "createdAt": {
+    "$date": "2023-05-18T15:52:30.171Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:52:30.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649c2f81336c56adf21ea"
+  },
+  "name": "Lê Hà Giang",
+  "ringGroup": "Sale,TS,Sale Line",
+  "status": 4,
+  "statusTime": 761,
+  "waitTime": 18,
+  "phone": "0793582167",
+  "month": 8,
+  "content": "Tôi muốn biết về lợi ích của việc tập thể dục đối với sức khỏe. Bạn có thể nêu một số lợi ích không?Chắc chắn! Tập thể dục đều đặn mang lại nhiều lợi ích cho sức khỏe. Nó giúp cải thiện sức mạnh cơ bắp và sự linh hoạt, tăng cường sự bền bỉ và khả năng tập trung. Tập thể dục cũng giúp duy trì cân nặng lành mạnh, tăng cường hệ tim mạch và hô hấp, cải thiện chất lượng giấc ngủ và tăng cường hệ miễn dịch. Ngoài ra, tập thể dục còn có tác động tích cực đến tâm trạng, giúp giảm căng thẳng, lo lắng và tăng cường cảm giác hạnh phúc.",
+  "createdAt": {
+    "$date": "2023-05-18T15:52:34.881Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:52:34.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649c7f81336c56adf21f2"
+  },
+  "name": "Nguyễn Thị Anh Thư",
+  "ringGroup": "Orders,Sale Line",
+  "status": 4,
+  "statusTime": 1117,
+  "waitTime": 53,
+  "phone": "0975624831",
+  "month": 7,
+  "content": "Tôi muốn tìm hiểu về các sự kiện thể thao lớn trên thế giới. Bạn có thể đề xuất cho tôi một số sự kiện thể thao nổi tiếng không?Chắc chắn! Có nhiều sự kiện thể thao nổi tiếng trên thế giới. Ví dụ, Olympic là một sự kiện thể thao quốc tế được tổ chức hai năm một lần, góp mặt của các vận động viên từ khắp nơi trên thế giới.",
+  "createdAt": {
+    "$date": "2023-05-18T15:52:39.228Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:52:39.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649cbf81336c56adf21fa"
+  },
+  "name": "Hỷ A Tiến",
+  "ringGroup": "Orders,Billing",
+  "status": 1,
+  "statusTime": 51,
+  "waitTime": 26,
+  "phone": "0387465297",
+  "month": 7,
+  "content": "Tôi quan tâm đến việc chăm sóc sức khỏe tâm lý. Bạn có thể chia sẻ với tôi một số phương pháp chăm sóc sức khỏe tâm lý không?Tất nhiên! Chăm sóc sức khỏe tâm lý là rất quan trọng. Bạn có thể thực hiện một số hoạt động như yoga, thiền định, và thư giãn để giảm căng thẳng và tăng cường tâm trạng",
+  "createdAt": {
+    "$date": "2023-05-18T15:52:43.529Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:52:43.529Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649d0f81336c56adf2202"
+  },
+  "name": "Bùi Minh Nguyên",
+  "ringGroup": "Orders,Sale,CS,Sale Line",
+  "status": 2,
+  "statusTime": 952,
+  "waitTime": 25,
+  "phone": "0874165477",
+  "month": 9,
+  "content": "Tôi muốn biết về tầm quan trọng của thể thao đối với sức khỏe của con người. Bạn có thể chia sẻ với tôi không?Tất nhiên! Thể thao đóng vai trò quan trọng trong việc duy trì và cải thiện sức khỏe của con người. Nó giúp tăng cường hệ tim mạch, cải thiện chức năng hô hấp, và tăng cường sức bền cơ bắp và xương khớp. Thể thao cũng giúp kiểm soát cân nặng, điều chỉnh mức đường huyết, và cải thiện chất lượng giấc ngủ. Ngoài ra, hoạt động thể thao thường đi kèm với tư duy tích cực và giảm căng thẳng, tạo ra cảm giác hạnh phúc và thăng hoa.",
+  "createdAt": {
+    "$date": "2023-05-18T15:52:48.273Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:52:48.273Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649d5f81336c56adf220a"
+  },
+  "name": "Võ Chí Hiếu",
+  "ringGroup": "CS,TS",
+  "status": 4,
+  "statusTime": 936,
+  "waitTime": 21,
+  "phone": "0876137957",
+  "month": 12,
+  "content": "Tôi muốn tìm hiểu về tầm quan trọng của giấc ngủ đối với sức khỏe. Bạn có thể chia sẻ thông tin về điều này không?Chắc chắn! Giấc ngủ đóng vai trò quan trọng trong việc duy trì sức khỏe. Khi ngủ, cơ thể được phục hồi và tái tạo năng lượng. Giấc ngủ đủ và chất lượng giúp cải thiện tinh thần, tăng cường trí nhớ và tập trung, và đẩy lùi nguy cơ mắc các bệnh tim mạch, tiểu đường, và béo phì. Hãy cố gắng có đủ giấc ngủ hàng đêm, tạo môi trường thoáng đãng và yên tĩnh để tạo điều kiện tốt nhất cho giấc ngủ, và duy trì một thói quen ngủ đều đặn để tăng cường sức khỏe.",
+  "createdAt": {
+    "$date": "2023-05-18T15:52:53.026Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:52:53.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649d9f81336c56adf2212"
+  },
+  "name": "Nguyễn Quốc Minh Trực",
+  "ringGroup": "Orders,Billing,CS,TS",
+  "status": 4,
+  "statusTime": 1084,
+  "waitTime": 13,
+  "phone": "0387465297",
+  "month": 11,
+  "content": "Tôi muốn biết về tác động của thể thao đến phát triển cá nhân. Bạn có thể nói thêm về điều này không?Chắc chắn! Thể thao có tác động tích cực đến phát triển cá nhân. Tham gia hoạt động thể thao giúp rèn luyện kỹ năng xã hội như teamwork, sự tự tin, và quản lý áp lực. Nó cũng khuyến khích sự kiên nhẫn, quyết tâm và kỷ luật. Thể thao giúp phát triển tinh thần đồng đội, tinh thần thi đấu và khả năng lãnh đạo. Ngoài ra, thể thao cũng giúp con người rèn luyện sự kiên nhẫn, quyết tâm và khả năng vượt qua thách thức. Từ đó, thể thao có thể góp phần vào sự phát triển toàn diện của cá nhân.",
+  "createdAt": {
+    "$date": "2023-05-18T15:52:57.855Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:52:57.855Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649def81336c56adf221a"
+  },
+  "name": "Trương Thị Ngọc Mỵ",
+  "ringGroup": "Sale,TS",
+  "status": 2,
+  "statusTime": 134,
+  "waitTime": 23,
+  "phone": "0868585743",
+  "month": 9,
+  "content": "Tôi quan tâm đến chế độ ăn để duy trì sức khỏe. Bạn có thể đề xuất một chế độ ăn cân đối cho tôi không?Tất nhiên! Một chế độ ăn cân đối bao gồm việc bổ sung đủ các nhóm thực phẩm cơ bản như rau, hoa quả, ngũ cốc, protein từ các nguồn như thịt, cá, đậu hũ, hạt và quả cơ bản. Hạn chế ăn đồ ăn nhanh, thức ăn chế biến sẵn, và đồ ngọt có nhiều đường. Hãy ưu tiên thức ăn tươi ngon, chế biến từ nguyên liệu tự nhiên và hạn chế sử dụng muối và chất béo không lành mạnh. Đồng thời, hãy duy trì cân bằng về lượng calo tiêu thụ và lượng calo tiêu thụ để duy trì cân nặng và sức khỏe tốt.",
+  "createdAt": {
+    "$date": "2023-05-18T15:53:02.582Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:53:02.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649e3f81336c56adf2222"
+  },
+  "name": "Nguyễn Hải Nam",
+  "ringGroup": "Sale,CS,TS",
+  "status": 2,
+  "statusTime": 259,
+  "waitTime": 17,
+  "phone": "0876137957",
+  "month": 7,
+  "content": "Tôi quan tâm đến khái niệm \"\"đổi mới\"\" và tầm quan trọng của nó. Bạn có thể giải thích cho tôi không?Tất nhiên! Đổi mới là quá trình tạo ra, áp dụng và lan tỏa những ý tưởng mới, sản phẩm mới và phương pháp mới để cải thiện hiệu quả hoạt động của một tổ chức, ngành công nghiệp hoặc xã hội. Đổi mới có thể thay đổi cách thức làm việc, tạo ra sự tiến bộ và nâng cao sự cạnh tranh. Nó đóng vai trò quan trọng trong việc thích nghi với thay đổi, tạo ra giá trị mới và tạo ra sự phát triển bền vững.",
+  "createdAt": {
+    "$date": "2023-05-18T15:53:07.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:53:07.219Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649e7f81336c56adf222a"
+  },
+  "name": "Nguyễn Khôi Nguyên",
+  "ringGroup": "Sale",
+  "status": 2,
+  "statusTime": 896,
+  "waitTime": 42,
+  "phone": "0793582167",
+  "month": 9,
+  "content": "Tôi muốn hiểu rõ hơn về trí tuệ nhân tạo. Bạn có thể giải thích cho tôi không?Tất nhiên! Trí tuệ nhân tạo (AI) là lĩnh vực trong khoa học máy tính nghiên cứu và phát triển các hệ thống và công nghệ có khả năng thực hiện các nhiệm vụ thông minh tương tự hoặc vượt trội hơn con người. Nó liên quan đến việc xử lý thông tin, học hỏi, tư duy, lập kế hoạch và ra quyết định dựa trên dữ liệu. Công nghệ trí tuệ nhân tạo đang được áp dụng rộng rãi trong nhiều lĩnh vực như xe tự lái, hệ thống giải quyết vấn đề phức tạp, nhận dạng giọng nói và hình ảnh, và nhiều ứng dụng khác.",
+  "createdAt": {
+    "$date": "2023-05-18T15:53:11.925Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:53:11.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649ecf81336c56adf2232"
+  },
+  "name": "Lê Đức Bình",
+  "ringGroup": "Orders,English,CS,TS",
+  "status": 1,
+  "statusTime": 708,
+  "waitTime": 16,
+  "phone": "0876137957",
+  "month": 7,
+  "content": "Tôi muốn biết về vai trò của đổi mới trong phát triển kinh tế. Bạn có thể nêu ví dụ cụ thể không?Chắc chắn! Đổi mới có vai trò quan trọng trong phát triển kinh tế. Một ví dụ điển hình là sự ra đời của công nghệ di động và ngành công nghiệp smartphone. Việc đổi mới trong thiết kế, tính năng và ứng dụng của điện thoại di động đã tạo ra một cuộc cách mạng kỹ thuật số và tạo ra một ngành công nghiệp đầy tiềm năng, góp phần vào tăng trưởng kinh tế và sáng tạo việc làm.",
+  "createdAt": {
+    "$date": "2023-05-18T15:53:16.587Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:53:16.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649f1f81336c56adf223a"
+  },
+  "name": "Nguyễn Lê Anh Thi",
+  "ringGroup": "Sale,CS",
+  "status": 2,
+  "statusTime": 65,
+  "waitTime": 53,
+  "phone": "0874165477",
+  "month": 3,
+  "content": "Tôi quan tâm đến ứng dụng của trí tuệ nhân tạo trong y tế. Bạn có thể chia sẻ với tôi một số ví dụ không?Chắc chắn! Trí tuệ nhân tạo đã có ứng dụng đáng kể trong lĩnh vực y tế. Ví dụ, các hệ thống AI có thể phân tích hình ảnh y tế như chụp X-quang, cắt lớp MRI và siêu âm để giúp phát hiện bất thường và chẩn đoán bệnh. Ngoài ra, AI cũng có thể sử dụng trong dự đoán dịch tễ học, tư vấn thuốc và quản lý bệnh tật. Việc áp dụng trí tuệ nhân tạo trong y tế giúp nâng cao chính xác, tốc độ và chất lượng chăm sóc sức khỏe.",
+  "createdAt": {
+    "$date": "2023-05-18T15:53:21.403Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:53:21.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649f6f81336c56adf2242"
+  },
+  "name": "Phạm Đình Khôi",
+  "ringGroup": "Billing,TS,Sale Line",
+  "status": 2,
+  "statusTime": 220,
+  "waitTime": 25,
+  "phone": "0746289741",
+  "month": 2,
+  "content": "Tôi quan tâm đến quy trình đổi mới. Bạn có thể chia sẻ với tôi một số bước quan trọng để thúc đẩy quá trình đổi mới không?Tất nhiên! Quy trình đổi mới thường bao gồm các bước như: định rõ mục tiêu và nhu cầu đổi mới, thu thập thông tin và nghiên cứu, tạo ra ý tưởng sáng tạo, phát triển và kiểm tra các giải pháp, triển khai và thử nghiệm, và cuối cùng đánh giá và điều chỉnh. Để thúc đẩy quá trình đổi mới, quan trọng để tạo một môi trường khuyến khích sáng tạo, khám phá ý tưởng mới, đồng thời cung cấp tài nguyên và hỗ trợ cần thiết",
+  "createdAt": {
+    "$date": "2023-05-18T15:53:26.057Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:53:26.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649faf81336c56adf224a"
+  },
+  "name": "Hồ Thiên Phúc",
+  "ringGroup": "Billing,Sale,CS",
+  "status": 1,
+  "statusTime": 587,
+  "waitTime": 14,
+  "phone": "0387465297",
+  "month": 1,
+  "content": "Tôi muốn biết về tiềm năng của trí tuệ nhân tạo trong việc tạo ra robot thông minh. Bạn có thông tin nào không?Tất nhiên! Trí tuệ nhân tạo đóng vai trò quan trọng trong phát triển robot thông minh. Các công nghệ AI như học máy, xử lý ngôn ngữ tự nhiên và thị giác máy tính giúp robot nhận biết và tương tác với môi trường xung quanh.",
+  "createdAt": {
+    "$date": "2023-05-18T15:53:30.434Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:53:30.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646649fff81336c56adf2252"
+  },
+  "name": "Nguyễn Lê Minh",
+  "ringGroup": "English,TS",
+  "status": 1,
+  "statusTime": 716,
+  "waitTime": 24,
+  "phone": "0793582167",
+  "month": 12,
+  "content": "Tôi muốn biết về vai trò của đổi mới trong lĩnh vực kinh doanh. Bạn có thể chia sẻ một ví dụ không?Chắc chắn! Một ví dụ về đổi mới trong lĩnh vực kinh doanh là sự phát triển của các dịch vụ giao hàng nhanh. Trước đây, việc giao hàng mất thời gian và không linh hoạt. Nhưng nhờ sự đổi mới trong quy trình và công nghệ, các công ty vận chuyển đã tạo ra các dịch vụ giao hàng nhanh chóng và đáng tin cậy. Điều này đã giúp cải thiện trải nghiệm khách hàng và thúc đẩy phát triển của các công ty thương mại điện tử và ngành vận chuyển.",
+  "createdAt": {
+    "$date": "2023-05-18T15:53:35.106Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:53:35.106Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a03f81336c56adf225a"
+  },
+  "name": "Đặng Hoàng Phi",
+  "ringGroup": "English,TS",
+  "status": 2,
+  "statusTime": 463,
+  "waitTime": 12,
+  "phone": "0874165477",
+  "month": 10,
+  "content": "Tôi muốn hiểu về tác động của trí tuệ nhân tạo đến công việc và nguồn lao động. Bạn có thể giải thích cho tôi không?Chắc chắn! Trí tuệ nhân tạo có tác động đáng kể đến công việc và nguồn lao động. Một số công việc có thể bị thay thế bởi hệ thống AI và robot thông minh, nhưng đồng thời cũng mở ra các cơ hội mới. AI có thể thực hiện các tác vụ tự động, giảm công việc lặp lại và tăng hiệu suất. Điều này tạo điều kiện cho việc tái định hình công việc và tập trung vào các nhiệm vụ đòi hỏi sự sáng tạo, tư duy phân tích và tương tác với con người.",
+  "createdAt": {
+    "$date": "2023-05-18T15:53:39.788Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:53:39.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a08f81336c56adf2262"
+  },
+  "name": "Đoàn Nhật Huy",
+  "ringGroup": "Orders",
+  "status": 3,
+  "statusTime": 1025,
+  "waitTime": 12,
+  "phone": "0876137957",
+  "month": 6,
+  "content": "Tôi muốn biết cách khởi xướng quá trình đổi mới trong công ty của mình. Bạn có gợi ý nào không?Tất nhiên! Để khởi xướng quá trình đổi mới trong công ty, bạn có thể thực hiện các hoạt động như khuyến khích ý tưởng mới từ nhân viên, tổ chức các buổi họp sáng tạo và brainstorming, tạo một môi trường làm việc thoải mái và sáng tạo, và xây dựng một hệ thống phản hồi và đánh giá ý tưởng. Đồng thời, hãy tạo ra các kênh giao tiếp và tương tác để khuyến khích sự chia sẻ ý tưởng và cải thiện quy trình đổi mới trong công ty.",
+  "createdAt": {
+    "$date": "2023-05-18T15:53:44.379Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:53:44.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a0df81336c56adf226a"
+  },
+  "name": "Hồ Thiên Phúc",
+  "ringGroup": "Billing,Sale,CS,TS",
+  "status": 3,
+  "statusTime": 1110,
+  "waitTime": 37,
+  "phone": "0874628941",
+  "month": 10,
+  "content": "Tôi quan tâm đến đạo đức trong trí tuệ nhân tạo. Bạn có thể nói thêm về việc áp dụng đạo đức trong lĩnh vực này không?Đúng! Áp dụng đạo đức trong trí tuệ nhân tạo là một vấn đề quan trọng. Đạo đức trong AI bao gồm việc đảm bảo rằng các hệ thống AI được phát triển và triển khai theo các nguyên tắc đạo đức và đáp ứng đúng các giá trị xã hội. Điều này liên quan đến việc đảm bảo công bằng, độ tin cậy, quyền riêng tư và trách nhiệm trong việc sử dụng AI. Các nhà nghiên cứu và chính phủ đang nỗ lực để thiết lập các nguyên tắc đạo đức và quy định trong lĩnh vực này để đảm bảo sự phát triển và sử dụng đúng mục đích của trí tuệ nhân tạo.",
+  "createdAt": {
+    "$date": "2023-05-18T15:53:49.262Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:53:49.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a11f81336c56adf2272"
+  },
+  "name": "Hồ Thiên Phúc",
+  "ringGroup": "CS",
+  "status": 2,
+  "statusTime": 1100,
+  "waitTime": 51,
+  "phone": "0876197435",
+  "month": 4,
+  "content": "Tôi muốn biết về lợi ích của năng lượng tái tạo. Bạn có thể giải thích cho tôi không?Chắc chắn! Năng lượng tái tạo có nhiều lợi ích quan trọng. Trước tiên, nó giúp giảm thiểu sự phụ thuộc vào nguồn năng lượng truyền thống như than, dầu mỏ và khí đốt tự nhiên. Điều này làm giảm khí thải CO2 và các chất gây ô nhiễm khác, góp phần vào việc giảm biến đổi khí hậu. Ngoài ra, năng lượng tái tạo là bền vững và không bị hạn chế về nguồn tài nguyên, đồng thời tạo ra cơ hội việc làm và thúc đẩy sự phát triển kinh tế xanh.",
+  "createdAt": {
+    "$date": "2023-05-18T15:53:53.861Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:53:53.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a16f81336c56adf227a"
+  },
+  "name": "Trần Hoàng Đăng Quân",
+  "ringGroup": "English,Sale,Sale Line",
+  "status": 1,
+  "statusTime": 958,
+  "waitTime": 33,
+  "phone": "0687419657",
+  "month": 7,
+  "content": "Tôi quan tâm đến các loại năng lượng tái tạo. Bạn có thể kể cho tôi một số ví dụ không?Tất nhiên! Có nhiều loại năng lượng tái tạo khác nhau. Ví dụ, năng lượng mặt trời là sự tận dụng ánh sáng mặt trời để tạo ra điện. Năng lượng gió sử dụng sức gió để quay các cánh quạt và tạo ra điện. Năng lượng thủy điện tận dụng năng lượng từ dòng nước chảy. Năng lượng sinh học sử dụng nguồn năng lượng từ chất thải hữu cơ và cây trồng để sản xuất nhiên liệu như ethanol và biodiesel. Ngoài ra, còn có năng lượng địa nhiệt, năng lượng biogas và nhiều loại năng lượng khác.",
+  "createdAt": {
+    "$date": "2023-05-18T15:53:58.619Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:53:58.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a1af81336c56adf2282"
+  },
+  "name": "Đặng Ngọc Duyên Anh",
+  "ringGroup": "TS",
+  "status": 1,
+  "statusTime": 139,
+  "waitTime": 13,
+  "phone": "0687419657",
+  "month": 3,
+  "content": "Tôi muốn biết về tiềm năng phát triển của năng lượng tái tạo. Bạn có thông tin nào không?Chắc chắn! Tiềm năng phát triển của năng lượng tái tạo là rất lớn. Hiện nay, các công nghệ năng lượng tái tạo đang trở nên ngày càng hiệu quả và giá cả cũng đang giảm. Điều này tạo điều kiện cho việc mở rộng sử dụng năng lượng tái tạo trên toàn cầu.",
+  "createdAt": {
+    "$date": "2023-05-18T15:54:02.956Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:54:02.956Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a1ff81336c56adf228a"
+  },
+  "name": "Hoàng Nguyễn Đại",
+  "ringGroup": "Orders,Sale,CS,TS",
+  "status": 3,
+  "statusTime": 388,
+  "waitTime": 13,
+  "phone": "0746289741",
+  "month": 3,
+  "content": "Tôi quan tâm đến ảnh hưởng của năng lượng tái tạo đến môi trường. Bạn có thông tin về điều này không?Tất nhiên! Năng lượng tái tạo có ảnh hưởng tích cực đến môi trường. Đầu tiên, nó giúp giảm khí thải carbon, góp phần vào việc giảm biến đổi khí hậu. Nguồn năng lượng tái tạo không phát thải khí nhà kính và các chất gây ô nhiễm khác, giúp cải thiện chất lượng không khí và nước. Nó cũng giúp bảo vệ các nguồn tài nguyên tự nhiên như nước, rừng và đất đai bằng cách giảm sự khai thác và sử dụng tài nguyên truyền thống.",
+  "createdAt": {
+    "$date": "2023-05-18T15:54:07.718Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:54:07.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a24f81336c56adf2292"
+  },
+  "name": "Hỷ A Tiến",
+  "ringGroup": "English,Sale,TS,Sale Line",
+  "status": 2,
+  "statusTime": 224,
+  "waitTime": 16,
+  "phone": "0387465297",
+  "month": 4,
+  "content": "Tôi muốn biết về ưu điểm kinh tế của năng lượng tái tạo. Bạn có thể chia sẻ với tôi không?Tất nhiên! Năng lượng tái tạo mang lại nhiều ưu điểm kinh tế. Một trong những ưu điểm quan trọng nhất là giảm chi phí năng lượng. Với sự phát triển công nghệ và quy mô sản xuất, giá thành của các nguồn năng lượng tái tạo đang giảm, trở nên cạnh tranh hơn so với nguồn năng lượng truyền thống. Ngoài ra, việc đầu tư vào năng lượng tái tạo tạo ra cơ hội việc làm và kích thích sự phát triển kinh tế trong lĩnh vực năng lượng xanh. ",
+  "createdAt": {
+    "$date": "2023-05-18T15:54:12.506Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:54:12.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a29f81336c56adf229a"
+  },
+  "name": "Hồng Quốc Lâm",
+  "ringGroup": "English",
+  "status": 2,
+  "statusTime": 760,
+  "waitTime": 32,
+  "phone": "0975624831",
+  "month": 11,
+  "content": "Thiên nhiên đóng vai trò quan trọng như thế nào trong cuộc sống của chúng ta?Thiên nhiên đóng vai trò không thể thiếu trong cuộc sống của chúng ta. Nó cung cấp cho chúng ta không khí trong lành, nước sạch, thực phẩm và các nguồn tài nguyên quan trọng khác. Thiên nhiên cũng đóng vai trò quan trọng trong việc duy trì sự cân bằng sinh thái và đa dạng sinh học trên hành tinh. Ngoài ra, việc tiếp xúc với thiên nhiên còn giúp chúng ta giảm căng thẳng, tăng cường sức khỏe và tạo ra cảm giác hạnh phúc và thư giãn.",
+  "createdAt": {
+    "$date": "2023-05-18T15:54:17.230Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:54:17.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a2ef81336c56adf22a2"
+  },
+  "name": "Đặng Xuân Danh",
+  "ringGroup": "English,Sale,Sale Line",
+  "status": 2,
+  "statusTime": 270,
+  "waitTime": 54,
+  "phone": "0868585743",
+  "month": 12,
+  "content": "Khoa học đóng vai trò quan trọng như thế nào trong cuộc sống hàng ngày của chúng ta?Khoa học đóng vai trò cực kỳ quan trọng trong cuộc sống hàng ngày của chúng ta. Nó giúp chúng ta hiểu về thế giới xung quanh, từ cấu trúc của vũ trụ đến các quy luật tự nhiên. Khoa học cung cấp cho chúng ta kiến thức để phát triển công nghệ, đưa ra các phương pháp chẩn đoán và điều trị bệnh, tạo ra các phát minh và sáng tạo mới. Ngoài ra, khoa học còn khuyến khích tư duy logic, phân tích và sự tò mò, giúp chúng ta hiểu rõ hơn về bản thân và thế giới xung quanh.",
+  "createdAt": {
+    "$date": "2023-05-18T15:54:22.048Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:54:22.048Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a33f81336c56adf22aa"
+  },
+  "name": "Nguyễn Văn Minh Nhật",
+  "ringGroup": "English,Billing,Sale Line",
+  "status": 2,
+  "statusTime": 202,
+  "waitTime": 12,
+  "phone": "0387465297",
+  "month": 9,
+  "content": "Tại sao chúng ta cần bảo vệ thiên nhiên?Bảo vệ thiên nhiên là rất quan trọng vì nó đảm bảo sự tồn tại và phát triển của con người và các loài khác trên hành tinh. Thiên nhiên cung cấp cho chúng ta nguồn tài nguyên quan trọng như không khí, nước, thực phẩm và dược phẩm. Bảo vệ thiên nhiên cũng đồng nghĩa với việc bảo vệ đa dạng sinh học và các hệ sinh thái quan trọng. Đồng thời, việc bảo vệ thiên nhiên còn giúp giảm thiểu tác động tiêu cực của con người đến môi trường, giữ gìn cảnh quan tự nhiên và tạo ra một môi trường sống lành mạnh cho chúng ta và tương lai của con cháu.",
+  "createdAt": {
+    "$date": "2023-05-18T15:54:27.697Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:54:27.697Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a39f81336c56adf22b2"
+  },
+  "name": "Nguyễn Phúc Minh",
+  "ringGroup": "CS,TS,Sale Line",
+  "status": 4,
+  "statusTime": 39,
+  "waitTime": 40,
+  "phone": "0868585743",
+  "month": 6,
+  "content": "Có những lĩnh vực nào được nghiên cứu trong lĩnh vực khoa học?Khoa học bao gồm nhiều lĩnh vực khác nhau như vật lý, hóa học, sinh học, toán học, khoa học máy tính, thiên văn học, địa chất học, y học và nhiều lĩnh vực khác. Mỗi lĩnh vực đều có phạm vi và phương pháp nghiên cứu riêng, nhằm khám phá và giải thích các quy luật và hiện tượng tự nhiên. Các nhà khoa học trong các lĩnh vực này thường làm việc để tìm hiểu và mở rộng kiến thức của chúng ta về thế giới và vũ trụ.",
+  "createdAt": {
+    "$date": "2023-05-18T15:54:33.132Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:54:33.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a3ef81336c56adf22ba"
+  },
+  "name": "Vương Trung Tín",
+  "ringGroup": "Orders,English,Billing,TS",
+  "status": 1,
+  "statusTime": 147,
+  "waitTime": 41,
+  "phone": "0868585743",
+  "month": 7,
+  "content": "Thiên nhiên có liên quan đến phát triển bền vững không?Đúng! Thiên nhiên là một yếu tố cốt lõi của phát triển bền vững. Phát triển bền vững đòi hỏi chúng ta duy trì sự cân bằng giữa sự phát triển kinh tế, xã hội và bảo vệ môi trường. Thiên nhiên cung cấp nguồn tài nguyên cho phát triển kinh tế và đáp ứng nhu cầu của xã hội, nhưng cần được quản lý và bảo vệ để đảm bảo sự tồn",
+  "createdAt": {
+    "$date": "2023-05-18T15:54:38.380Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:54:38.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a43f81336c56adf22c2"
+  },
+  "name": "Lê Thanh Hiền",
+  "ringGroup": "Orders",
+  "status": 3,
+  "statusTime": 1117,
+  "waitTime": 14,
+  "phone": "0793582167",
+  "month": 9,
+  "content": "Tại sao việc khám phá khoa học quan trọng?Việc khám phá khoa học là quan trọng vì nó giúp chúng ta hiểu rõ hơn về thế giới xung quanh và cung cấp giải thích cho những hiện tượng tự nhiên. Các phát hiện khoa học mang lại kiến thức mới, mở rộng ranh giới của nhận thức con người và tạo ra những ứng dụng thực tiễn. Việc tiến bộ trong khoa học cũng giúp chúng ta giải quyết các vấn đề toàn cầu như biến đổi khí hậu, năng lượng sạch, y tế.",
+  "createdAt": {
+    "$date": "2023-05-18T15:54:43.588Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:54:43.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a49f81336c56adf22ca"
+  },
+  "name": "Lê Thanh Bình",
+  "ringGroup": "Sale",
+  "status": 4,
+  "statusTime": 301,
+  "waitTime": 27,
+  "phone": "0876137957",
+  "month": 12,
+  "content": "Thiên nhiên có vai trò quan trọng trong việc giữ gìn sức khỏe của con người không?Chính xanh lá cây, không khí trong lành và cảnh quan thiên nhiên đều đóng vai trò quan trọng trong việc duy trì và nâng cao sức khỏe của con người. Tiếp xúc với thiên nhiên có thể giảm căng thẳng, cải thiện tâm trạng và giúp giảm nguy cơ mắc một số bệnh. Ngoài ra, việc vận động và tham gia vào các hoạt động ngoài trời trong môi trường thiên nhiên cũng có lợi cho sức khỏe tinh thần và thể chất. Đó là lý do tại sao việc bảo vệ và tôn trọng thiên nhiên là một phần quan trọng của việc duy trì sức khỏe và trạng thái tinh thần tốt.",
+  "createdAt": {
+    "$date": "2023-05-18T15:54:49.279Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:54:49.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a4ff81336c56adf22d2"
+  },
+  "name": "Nguyễn Thành Lợi",
+  "ringGroup": "Sale Line",
+  "status": 4,
+  "statusTime": 441,
+  "waitTime": 22,
+  "phone": "0975624831",
+  "month": 12,
+  "content": "Khoa học đã có những đóng góp gì quan trọng trong lĩnh vực y học?Khoa học đã có những đóng góp quan trọng trong lĩnh vực y học. Nó đã giúp chúng ta hiểu rõ hơn về cơ chế bệnh tật và phát triển các phương pháp chẩn đoán và điều trị hiệu quả hơn. Khoa học đã đưa ra các phát minh như vắc-xin, kháng sinh và các phương pháp hình ảnh y tế như siêu âm và chụp CT. Nó cũng đã giúp tìm ra nguyên nhân và cách phòng ngừa nhiều căn bệnh nguy hiểm như ung thư và bệnh tim mạch. Công trình nghiên cứu trong lĩnh vực y học tiếp tục được thực hiện để nâng cao chất lượng chăm sóc sức khỏe và đảm bảo sự phát triển của y học trong tương lai.",
+  "createdAt": {
+    "$date": "2023-05-18T15:54:55.005Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:54:55.005Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a54f81336c56adf22da"
+  },
+  "name": "Võ Thị Mỹ Duyên",
+  "ringGroup": "Sale Line",
+  "status": 2,
+  "statusTime": 913,
+  "waitTime": 11,
+  "phone": "0874628941",
+  "month": 1,
+  "content": "Thiên nhiên cung cấp những trải nghiệm tuyệt vời cho chúng ta. Bạn có thể chia sẻ một ví dụ về trải nghiệm độc đáo trong thiên nhiên không?Tất nhiên! Một ví dụ về trải nghiệm độc đáo trong thiên nhiên là việc khám phá rừng nhiệt đới. Đi dạo qua khu rừng xanh tươi, ngắm nhìn những cây cổ thụ và nghe tiếng chim hót là trải nghiệm tuyệt vời. Bạn có thể ngắm nhìn những loài thực vật hiếm và quan sát đa dạng sinh học phong phú trong khu rừng. Ngoài ra, việc tham gia vào hoạt động như đi bộ đường dài, leo núi hoặc đi du thuyền trên các dòng sông trong thiên nhiên cũng mang lại trải nghiệm thú vị và khám phá sự hùng vĩ và tuyệt diệu của tự nhiên.",
+  "createdAt": {
+    "$date": "2023-05-18T15:55:00.743Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:55:00.743Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a5af81336c56adf22e2"
+  },
+  "name": "Thái Triều Đông",
+  "ringGroup": "Orders,English,CS,TS",
+  "status": 1,
+  "statusTime": 92,
+  "waitTime": 27,
+  "phone": "0874628941",
+  "month": 1,
+  "content": "Tại sao nghiên cứu khoa học quan trọng trong việc phát triển xã hội?Nghiên cứu khoa học quan trọng trong việc phát triển xã hội vì nó mang lại kiến thức mới, sáng tạo và tiến bộ. Các phát hiện và ứng dụng khoa học đóng vai trò quan trọng trong nâng cao chất lượng cuộc sống, tạo ra công nghệ tiên tiến, cải thiện sản xuất và gia tăng sự hiểu biết về thế giới tự nhiên. Nghiên cứu khoa học cũng mở ra cơ hội cho sự phát triển kinh tế và xã hội, từ việc tạo ra việc làm mới đến khai thác tài nguyên và xây dựng cộng đồng thông minh và bền vững.",
+  "createdAt": {
+    "$date": "2023-05-18T15:55:06.362Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:55:06.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a5ff81336c56adf22ea"
+  },
+  "name": "Đinh Hồ Gia Bảo",
+  "ringGroup": "English,Billing,CS",
+  "status": 4,
+  "statusTime": 1109,
+  "waitTime": 44,
+  "phone": "0387465297",
+  "month": 11,
+  "content": "Môi trường tự nhiên đóng vai trò gì quan trọng trong cuộc sống của chúng ta?Môi trường tự nhiên đóng vai trò cực kỳ quan trọng trong cuộc sống của chúng ta. Nó cung cấp không gian sống cho các sinh vật, cung cấp nguồn tài nguyên quan trọng như nước, không khí, đất và thực phẩm. Môi trường cũng đóng vai trò quan trọng trong việc duy trì sự cân bằng sinh thái, điều hòa khí hậu và bảo vệ đa dạng sinh học. Sự bảo tồn và bảo vệ môi trường là trách nhiệm của chúng ta để đảm bảo cuộc sống bền vững cho thế hệ hiện tại và tương lai.",
+  "createdAt": {
+    "$date": "2023-05-18T15:55:11.942Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:55:11.942Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a65f81336c56adf22f2"
+  },
+  "name": "Võ Phúc Duy",
+  "ringGroup": "Orders,Billing,Sale Line",
+  "status": 4,
+  "statusTime": 214,
+  "waitTime": 49,
+  "phone": "0876197435",
+  "month": 10,
+  "content": "Mạng xã hội có tác động như thế nào đến cuộc sống của chúng ta?Mạng xã hội đã có tác động rất lớn đến cuộc sống của chúng ta. Nó giúp chúng ta kết nối và giao tiếp với bạn bè, gia đình và người khác trên toàn thế giới. Mạng xã hội cũng là một nền tảng cho việc chia sẻ thông tin, hình ảnh, video và quan điểm cá nhân. Ngoài ra, mạng xã hội cũng đã thay đổi cách chúng ta tiếp cận thông tin, giải trí, mua sắm và tìm kiếm công việc. Tuy nhiên, cần lưu ý rằng sử dụng mạng xã hội cần có ý thức để đảm bảo an toàn và sử dụng một cách tích cực.",
+  "createdAt": {
+    "$date": "2023-05-18T15:55:17.543Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:55:17.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a6bf81336c56adf22fa"
+  },
+  "name": "Lê Quốc Huy",
+  "ringGroup": "Billing,CS,TS,Sale Line",
+  "status": 3,
+  "statusTime": 152,
+  "waitTime": 23,
+  "phone": "0874628941",
+  "month": 7,
+  "content": "Tại sao chúng ta cần quan tâm đến bảo vệ môi trường?Chúng ta cần quan tâm đến bảo vệ môi trường vì nó ảnh hưởng trực tiếp đến cuộc sống và sức khỏe của chúng ta. Môi trường không tốt có thể gây ra ô nhiễm không khí, nước và đất, gây ra các vấn đề sức khỏe nguy hiểm. Ngoài ra, môi trường bị suy thoái cũng có thể dẫn đến mất mát đa dạng sinh học, làm suy yếu các hệ sinh thái quan trọng và gây ra các thảm họa thiên nhiên. Bảo vệ môi trường là trách nhiệm của chúng ta để đảm bảo sự tồn tại và phát triển của con người cùng với các loài sống khác trên hành tinh này.",
+  "createdAt": {
+    "$date": "2023-05-18T15:55:23.228Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:55:23.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a70f81336c56adf2302"
+  },
+  "name": "Trần Quốc Anh",
+  "ringGroup": "English,Sale,CS,Sale Line",
+  "status": 1,
+  "statusTime": 1020,
+  "waitTime": 24,
+  "phone": "0854793114",
+  "month": 10,
+  "content": "Mạng xã hội có những ảnh hưởng tích cực và tiêu cực đến tâm lý và tình cảm của con người không?Đúng vậy, mạng xã hội có những ảnh hưởng tích cực và tiêu cực đến tâm lý và tình cảm của con người. Tích cực, mạng xã hội cho phép chúng ta tiếp cận thông tin, tương tác xã hội và chia sẻ niềm vui, gắn kết với người khác. Tuy nhiên, tiêu cực, mạng xã hội có thể gây áp lực xã hội, so sánh bản thân, gây căng thẳng và gây ảnh hưởng đến tự tin và tâm lý. Quan trọng là chúng ta phải sử dụng mạng xã hội một cách cân nhắc và có ý thức để bảo vệ sức khỏe tâm lý của mình.",
+  "createdAt": {
+    "$date": "2023-05-18T15:55:28.927Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:55:28.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a76f81336c56adf230a"
+  },
+  "name": "Hồ Văn Tấn",
+  "ringGroup": "Orders,Billing,TS,Sale Line",
+  "status": 3,
+  "statusTime": 605,
+  "waitTime": 18,
+  "phone": "0387465297",
+  "month": 12,
+  "content": "Cách nào để giảm thiểu ô nhiễm môi trường?Để giảm thiểu ô nhiễm môi trường, chúng ta có thể thực hiện một số biện pháp như sử dụng năng lượng tái tạo thay vì năng lượng hóa thạch, tái chế và tái sử dụng các vật liệu, sử dụng phương tiện giao thông công cộng hoặc xe điện thay vì xe hơi cá nhân, hạn chế sử dụng sản phẩm nhựa",
+  "createdAt": {
+    "$date": "2023-05-18T15:55:34.241Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:55:34.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a7bf81336c56adf2312"
+  },
+  "name": "Trần Diễm Tú",
+  "ringGroup": "Billing,Sale",
+  "status": 2,
+  "statusTime": 186,
+  "waitTime": 44,
+  "phone": "0874165477",
+  "month": 11,
+  "content": "Mạng xã hội có ảnh hưởng đến quan hệ giữa con người không?Mạng xã hội có ảnh hưởng đáng kể đến quan hệ giữa con người. Nó cung cấp một phương tiện để kết nối và duy trì quan hệ với bạn bè, gia đình và đồng nghiệp. Mạng xã hội cũng tạo ra cơ hội để chúng ta tìm kiếm.",
+  "createdAt": {
+    "$date": "2023-05-18T15:55:39.012Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:55:39.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a80f81336c56adf231a"
+  },
+  "name": "Lê Thanh Bình",
+  "ringGroup": "English,Sale,TS",
+  "status": 2,
+  "statusTime": 1001,
+  "waitTime": 54,
+  "phone": "0793582167",
+  "month": 7,
+  "content": "Những lợi ích của việc bảo vệ môi trường là gì?Việc bảo vệ môi trường mang lại nhiều lợi ích quan trọng. Đầu tiên, nó giúp duy trì cân bằng sinh thái và đa dạng sinh học, bảo vệ các loài động, thực vật và môi trường sống của chúng. Thứ hai, việc bảo vệ môi trường cung cấp nguồn tài nguyên quan trọng như không khí trong lành, nước sạch và đất phù hợp cho việc trồng trọt và nuôi sống. Thứ ba, nó giúp giảm thiểu tác động tiêu cực đến sức khỏe con người, như ô nhiễm không khí và nước. Cuối cùng, việc bảo vệ môi trường đóng góp vào việc giảm thiểu biến đổi khí hậu và thúc đẩy sự phát triển bền vững và hài hòa giữa con người và tự nhiên.",
+  "createdAt": {
+    "$date": "2023-05-18T15:55:44.852Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:55:44.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a86f81336c56adf2322"
+  },
+  "name": "Lê Trung Thiên",
+  "ringGroup": "English,Billing,TS",
+  "status": 1,
+  "statusTime": 298,
+  "waitTime": 11,
+  "phone": "0876137957",
+  "month": 8,
+  "content": "Mạng xã hội có ảnh hưởng đến quyền riêng tư của con người không?Mạng xã hội có thể ảnh hưởng đến quyền riêng tư của con người. Khi chúng ta chia sẻ thông tin cá nhân trên mạng xã hội, nó có thể trở nên khả nghiên cho những người không mong muốn. Thông tin cá nhân của chúng ta có thể được sử dụng một cách không đúng đắn hoặc có thể bị lộ đi. Vì vậy, rất quan trọng để có ý thức và kiểm soát thông tin mà chúng ta chia sẻ trên mạng xã hội. Cần lưu ý cài đặt các cấu hình bảo mật phù hợp và xem xét xác định rõ ràng về quyền riêng tư trên các nền tảng mạng xã hội.",
+  "createdAt": {
+    "$date": "2023-05-18T15:55:50.490Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:55:50.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a8cf81336c56adf232a"
+  },
+  "name": "Nguyễn Thanh Danh",
+  "ringGroup": "Orders,Sale",
+  "status": 3,
+  "statusTime": 1007,
+  "waitTime": 58,
+  "phone": "0874165477",
+  "month": 1,
+  "content": "Làm thế nào để thúc đẩy nhận thức về bảo vệ môi trường trong cộng đồng?Để thúc đẩy nhận thức về bảo vệ môi trường trong cộng đồng, có một số biện pháp có thể thực hiện. Đầu tiên, cần tạo ra các chương trình giáo dục và nâng cao nhận thức về tầm quan trọng của bảo vệ môi trường, đặc biệt là đối với trẻ em và thanh thiếu niên. Thứ hai, cần tăng cường thông tin và tư vấn về các biện pháp bảo vệ môi trường, như tiết kiệm năng lượng, quản lý chất thải và sử dụng các nguồn tài nguyên tái tạo. Thứ ba, có thể tổ chức các hoạt động xanh và tình nguyện trong cộng đồng, như làm vườn, dọn vệ sinh môi trường và tham gia vào các chiến dịch bảo vệ môi trường. Cuối cùng, chính phủ và tổ chức phi chính phủ cần đưa ra chính sách hỗ trợ và khuyến khích việc bảo vệ môi trường, bao gồm cung cấp cơ hội và ưu đãi cho các hoạt động xanh và phát",
+  "createdAt": {
+    "$date": "2023-05-18T15:55:56.830Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:55:56.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a92f81336c56adf2332"
+  },
+  "name": "Nguyễn Phúc Khang",
+  "ringGroup": "Orders,English,Sale,TS",
+  "status": 2,
+  "statusTime": 509,
+  "waitTime": 42,
+  "phone": "0387465297",
+  "month": 10,
+  "content": "Mạng xã hội có thể ảnh hưởng đến sự phát triển cá nhân không?Mạng xã hội có thể ảnh hưởng đến sự phát triển cá nhân của chúng ta. Nó cung cấp một nền tảng để chúng ta chia sẻ thành tựu, tài năng và quan điểm của mình với mọi người. Mạng xã hội cũng tạo ra cơ hội học hỏi, kết nối với những người có cùng sở thích và khám phá những ý tưởng mới. Tuy nhiên, cần có sự cân nhắc và cảnh giác với việc sử dụng mạng xã hội để không bị sa đà vào sự so sánh và áp lực xã hội. Đồng thời, việc sử dụng mạng xã hội cần phải được kết hợp với việc đầu tư thời gian và tư duy vào những hoạt động và mối quan hệ thực tế để phát triển toàn diện.",
+  "createdAt": {
+    "$date": "2023-05-18T15:56:02.694Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:56:02.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a98f81336c56adf233a"
+  },
+  "name": "Phan Văn Quí",
+  "ringGroup": "Orders,Sale,CS,Sale Line",
+  "status": 1,
+  "statusTime": 1074,
+  "waitTime": 14,
+  "phone": "0793582167",
+  "month": 2,
+  "content": "Giáo dục đóng vai trò quan trọng như thế nào trong xã hội?Giáo dục đóng vai trò vô cùng quan trọng trong xã hội. Nó không chỉ cung cấp kiến thức và kỹ năng cho cá nhân, mà còn đóng góp vào sự phát triển toàn diện của mỗi người. Giáo dục giúp mở rộng kiến thức, khuyến khích tư duy sáng tạo và phát triển kỹ năng quan trọng như giao tiếp, lập trình, tư duy logic và giải quyết vấn đề. Ngoài ra, giáo dục còn tạo điều kiện cho sự phát triển cá nhân, khai thác tiềm năng và tạo cơ hội cho tương lai tốt hơn.",
+  "createdAt": {
+    "$date": "2023-05-18T15:56:08.257Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:56:08.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664a9df81336c56adf2342"
+  },
+  "name": "Vũ Ngọc Minh Trung",
+  "ringGroup": "Orders,English,Billing,CS",
+  "status": 4,
+  "statusTime": 271,
+  "waitTime": 42,
+  "phone": "0876137957",
+  "month": 12,
+  "content": "Giáo dục có vai trò gì trong việc giảm bớt bất bình đẳng xã hội?Giáo dục đóng vai trò quan trọng trong việc giảm bớt bất bình đẳng xã hội. Nó cung cấp cơ hội công bằng cho mọi người tiếp cận kiến thức và phát triển. Bằng cách đảm bảo môi trường học tập công bằng và chất lượng, giáo dục có thể giúp giảm đói nghèo, bất công xã hội và khuyến khích sự công bằng giới tính. Đồng thời, giáo dục cũng trang bị cho cá nhân các kỹ năng cần thiết để vượt qua khó khăn và đóng góp vào xã hội một cách tích cực.",
+  "createdAt": {
+    "$date": "2023-05-18T15:56:13.815Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:56:13.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664aa2f81336c56adf234a"
+  },
+  "name": "Võ Ngọc Nguyễn Minh",
+  "ringGroup": "CS,Sale Line",
+  "status": 1,
+  "statusTime": 762,
+  "waitTime": 47,
+  "phone": "0975624831",
+  "month": 3,
+  "content": "Giáo dục có vai trò gì trong việc phát triển kỹ năng mềm?Giáo dục đóng vai trò quan trọng trong việc phát triển kỹ năng mềm. Kỹ năng mềm bao gồm kỹ năng giao tiếp, lãnh đạo, làm việc nhóm, tư duy sáng tạo và quản lý thời gian. Giáo dục tạo cơ hội để trau dồi và phát triển các kỹ năng này thông qua các hoạt động học tập, thảo luận, dự án nhóm và thực hành thực tế.",
+  "createdAt": {
+    "$date": "2023-05-18T15:56:18.936Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:56:18.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664aa8f81336c56adf2352"
+  },
+  "name": "Lê Văn Minh Quang",
+  "ringGroup": "TS",
+  "status": 3,
+  "statusTime": 262,
+  "waitTime": 19,
+  "phone": "0793582167",
+  "month": 4,
+  "content": "Giáo dục đóng vai trò gì trong việc khuyến khích sự sáng tạo và đổi mới?Giáo dục đóng vai trò quan trọng trong việc khuyến khích sự sáng tạo và đổi mới. Qua việc khuyến khích tư duy sáng tạo, giáo dục giúp các cá nhân phát hiện và phát triển ý tưởng mới, suy nghĩ khác biệt và tạo ra giá trị sáng tạo. Nó cung cấp môi trường học tập kích thích, trong đó sinh viên được khuyến khích đặt câu hỏi, thách thức ý kiến thường quy và tìm kiếm giải pháp sáng tạo cho các vấn đề. Bên cạnh đó, giáo dục cũng cung cấp kiến thức về công nghệ và quá trình đổi mới để thúc đẩy sự phát triển kinh tế và xã hội.",
+  "createdAt": {
+    "$date": "2023-05-18T15:56:24.553Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:56:24.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664aaef81336c56adf235a"
+  },
+  "name": "Nguyễn Bá Thông",
+  "ringGroup": "Orders,Billing,Sale,TS",
+  "status": 3,
+  "statusTime": 177,
+  "waitTime": 12,
+  "phone": "0876197435",
+  "month": 6,
+  "content": "Giáo dục có vai trò gì trong việc phát triển ý thức về bảo vệ môi trường?Giáo dục đóng vai trò quan trọng trong việc phát triển ý thức về bảo vệ môi trường. Nó giúp chúng ta hiểu về tầm quan trọng của môi trường trong cuộc sống hàng ngày và tác động của các hoạt động con người lên môi trường. Giáo dục môi trường giúp chúng ta nhận thức về những vấn đề như biến đổi khí hậu, ô nhiễm, suy thoái đất đai và cách thức bảo vệ và phục hồi môi trường. Nó khuyến khích chúng ta thực hiện những hành động bảo vệ môi trường hàng ngày, như tiết kiệm năng lượng, tái chế và sử dụng các nguồn năng lượng tái tạo.",
+  "createdAt": {
+    "$date": "2023-05-18T15:56:30.394Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:56:30.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664ab3f81336c56adf2362"
+  },
+  "name": "Lê Thanh Hiền",
+  "ringGroup": "English",
+  "status": 2,
+  "statusTime": 185,
+  "waitTime": 42,
+  "phone": "0876137957",
+  "month": 1,
+  "content": "Khởi nghiệp là gì và tại sao nó quan trọng?Khởi nghiệp là quá trình bắt đầu và xây dựng một doanh nghiệp mới hoặc một dự án có tiềm năng phát triển. Khởi nghiệp quan trọng vì nó tạo ra cơ hội kinh doanh, tạo ra việc làm, khuyến khích sự sáng tạo và đóng góp vào sự phát triển kinh tế. Nó cũng cho phép cá nhân thực hiện ý tưởng và ước mơ của mình, tự do làm việc theo cách riêng và định hình tương lai của mình.",
+  "createdAt": {
+    "$date": "2023-05-18T15:56:35.401Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:56:35.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664ab8f81336c56adf236a"
+  },
+  "name": "Nguyễn Gia Bình",
+  "ringGroup": "TS",
+  "status": 3,
+  "statusTime": 366,
+  "waitTime": 50,
+  "phone": "0876197435",
+  "month": 6,
+  "content": "Quy trình khởi nghiệp là gì?Quy trình khởi nghiệp là chuỗi các bước từ ý tưởng ban đầu đến việc xây dựng và phát triển doanh nghiệp. Quy trình này bao gồm việc nghiên cứu thị trường, xác định mục tiêu, lập kế hoạch kinh doanh, tìm kiếm vốn và nguồn lực, xây dựng sản phẩm hoặc dịch vụ, thử nghiệm và thích nghi, và cuối cùng là tiếp cận thị trường và phát triển doanh nghiệp. Quy trình khởi nghiệp có thể phức tạp và đòi hỏi sự kiên nhẫn, sáng tạo và nỗ lực không ngừng.",
+  "createdAt": {
+    "$date": "2023-05-18T15:56:40.580Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:56:40.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664abdf81336c56adf2372"
+  },
+  "name": "Nguyễn Trung Thịnh",
+  "ringGroup": "Sale Line",
+  "status": 2,
+  "statusTime": 270,
+  "waitTime": 14,
+  "phone": "0746289741",
+  "month": 1,
+  "content": "Khởi nghiệp có rủi ro không?Có, khởi nghiệp có rủi ro. Khi bắt đầu một doanh nghiệp mới, có nhiều yếu tố không chắc chắn và khó đo đạc như thị trường, cạnh tranh, tài chính, và quản lý. Rủi ro trong khởi nghiệp có thể làm suy yếu hoặc thất bại doanh nghiệp. Tuy nhiên, việc quản lý rủi ro và tìm kiếm cơ hội là một phần quan trọng của quy trình khởi nghiệp. Những người khởi nghiệp thông thường đối mặt với rủi ro mà họ chấp nhận để đạt được thành công và định hình tương lai của mình.",
+  "createdAt": {
+    "$date": "2023-05-18T15:56:45.573Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:56:45.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664ac2f81336c56adf237a"
+  },
+  "name": "Nguyễn Thanh Phong",
+  "ringGroup": "Billing,Sale,TS",
+  "status": 4,
+  "statusTime": 469,
+  "waitTime": 53,
+  "phone": "0746289741",
+  "month": 8,
+  "content": "Làm thế nào để tìm ý tưởng khởi nghiệp?Tìm ý tưởng khởi nghiệp có thể xuất phát từ nhiều nguồn khác nhau. Bạn có thể tìm kiếm các vấn đề trong cuộc sống hàng ngày mà bạn muốn giải quyết, khám phá xu hướng mới trong công nghệ hoặc thị trường, lắng nghe ý kiến ​​của người khác, hoặc tìm hiểu về các lĩnh vực mà bạn đam mê. Điều quan trọng là khám phá và nắm bắt cơ hội từ những ý tưởng sáng tạo và thú vị.",
+  "createdAt": {
+    "$date": "2023-05-18T15:56:50.479Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:56:50.479Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664ac7f81336c56adf2382"
+  },
+  "name": "Trương Thanh Lịch",
+  "ringGroup": "English,Billing,Sale,Sale Line",
+  "status": 4,
+  "statusTime": 115,
+  "waitTime": 39,
+  "phone": "0876137957",
+  "month": 9,
+  "content": "Nên khởi nghiệp độc lập hay gia nhập một start-up có sẵn?Quyết định giữa khởi nghiệp độc lập và gia nhập một start-up có sẵn phụ thuộc vào mục tiêu và tầm nhìn của bạn. Khởi nghiệp độc lập cho phép bạn có toàn quyền quyết định và kiểm soát doanh nghiệp của mình, nhưng đòi hỏi sự đầu tư lớn về thời gian, tiền bạc và kiến thức. Gia nhập một start-up có sẵn có thể mang lại lợi ích như sẵn có cơ sở hạ tầng",
+  "createdAt": {
+    "$date": "2023-05-18T15:56:55.409Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:56:55.409Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664accf81336c56adf238a"
+  },
+  "name": "Đinh Hồ Gia Bảo",
+  "ringGroup": "Orders,CS,TS,Sale Line",
+  "status": 2,
+  "statusTime": 550,
+  "waitTime": 13,
+  "phone": "0854793114",
+  "month": 7,
+  "content": "Kỹ năng mềm quan trọng như thế nào trong sự nghiệp?Kỹ năng mềm đóng vai trò quan trọng trong sự nghiệp của bạn. Ngoài kiến thức chuyên môn, nhà tuyển dụng cũng đánh giá cao khả năng giao tiếp, làm việc nhóm, quản lý thời gian và sự tự tin. Kỹ năng mềm giúp bạn tương tác tốt với người khác, giải quyết vấn đề, đưa ra quyết định và phát triển mối quan hệ nghề nghiệp. Nâng cao kỹ năng mềm của bạn sẽ giúp bạn cạnh tranh tốt hơn trên thị trường lao động và thành công trong sự nghiệp.",
+  "createdAt": {
+    "$date": "2023-05-18T15:57:00.112Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:57:00.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664ad0f81336c56adf2392"
+  },
+  "name": "Hỷ A Tiến",
+  "ringGroup": "Billing",
+  "status": 4,
+  "statusTime": 693,
+  "waitTime": 19,
+  "phone": "0387465297",
+  "month": 8,
+  "content": "Có những kỹ năng mềm nào quan trọng mà tôi nên phát triển?Có nhiều kỹ năng mềm quan trọng mà bạn nên phát triển. Đầu tiên là kỹ năng giao tiếp hiệu quả, bao gồm việc lắng nghe, diễn đạt ý kiến ​​và tương tác xã hội. Kỹ năng làm việc nhóm cũng rất quan trọng, bao gồm khả năng làm việc và hợp tác với những người có ý kiến ​​khác nhau. Kỹ năng quản lý thời gian, quyết định, và giải quyết vấn đề cũng là những kỹ năng quan trọng để xử lý công việc hiệu quả. Ngoài ra, kỹ năng lãnh đạo, sáng tạo và khả năng thích ứng cũng có vai trò quan trọng trong sự phát triển cá nhân và nghề nghiệp.",
+  "createdAt": {
+    "$date": "2023-05-18T15:57:04.805Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:57:04.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664ad5f81336c56adf239a"
+  },
+  "name": "Nguyễn Hữu Dương",
+  "ringGroup": "Billing,CS,Sale Line",
+  "status": 3,
+  "statusTime": 776,
+  "waitTime": 20,
+  "phone": "0746289741",
+  "month": 9,
+  "content": "Làm thế nào để phát triển kỹ năng mềm?Để phát triển kỹ năng mềm, bạn có thể tham gia các khóa học, hội thảo hoặc chương trình đào tạo liên quan đến kỹ năng mềm mà bạn quan tâm. Đồng thời, tìm cách áp dụng và thực hành những kỹ năng này trong công việc và cuộc sống hàng ngày.",
+  "createdAt": {
+    "$date": "2023-05-18T15:57:09.100Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:57:09.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664ad9f81336c56adf23a2"
+  },
+  "name": "Đặng Bùi Anh Nhân",
+  "ringGroup": "Billing",
+  "status": 4,
+  "statusTime": 1050,
+  "waitTime": 55,
+  "phone": "0387465297",
+  "month": 8,
+  "content": "Tôi muốn phát triển kỹ năng mềm của mình. Bạn có những gợi ý nào?Tất nhiên! Để phát triển kỹ năng mềm, bạn có thể thực hiện một số hoạt động như tham gia vào các khóa học hoặc chương trình đào tạo về kỹ năng mềm, đọc sách và tài liệu liên quan đến chủ đề này, và thực hành kỹ năng qua các tình huống thực tế. Bạn cũng có thể tham gia vào các nhóm làm việc, dự án tình nguyện hoặc câu lạc bộ để rèn kỹ năng giao tiếp, làm việc nhóm và quản lý thời gian. Đặc biệt, hãy luôn kiên nhẫn và kiên trì trong quá trình học và phát triển kỹ năng mềm của mình.",
+  "createdAt": {
+    "$date": "2023-05-18T15:57:13.757Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:57:13.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664adef81336c56adf23aa"
+  },
+  "name": "Nguyễn Thành Lợi",
+  "ringGroup": "Orders,English,CS,Sale Line",
+  "status": 3,
+  "statusTime": 977,
+  "waitTime": 26,
+  "phone": "0854793114",
+  "month": 4,
+  "content": "Tôi muốn nâng cao kỹ năng mềm của mình, nhưng không biết bắt đầu từ đâu. Bạn có gợi ý gì không?Tất nhiên! Để bắt đầu nâng cao kỹ năng mềm, bạn có thể thực hiện những việc như tham gia vào các khóa học trực tuyến hoặc offline về kỹ năng mềm, tìm hiểu và áp dụng các phương pháp tự học, và tham gia vào các nhóm thảo luận hoặc cộng đồng trực tuyến về chủ đề này. Hãy lắng nghe phản hồi từ người khác và sẵn sàng nhận thông tin phản hồi xây dựng để cải thiện. Đồng thời, hãy áp dụng kỹ năng mềm trong các tình huống thực tế, ví dụ như giao tiếp hiệu quả, quản lý xung đột và làm việc nhóm. Bằng việc thực hành và kiên trì, bạn sẽ tiến bộ và nâng cao kỹ năng mềm của mình.",
+  "createdAt": {
+    "$date": "2023-05-18T15:57:18.711Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:57:18.711Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664ae3f81336c56adf23b2"
+  },
+  "name": "Đặng Trọng Trình",
+  "ringGroup": "Billing,CS,TS,Sale Line",
+  "status": 4,
+  "statusTime": 79,
+  "waitTime": 36,
+  "phone": "0876137957",
+  "month": 1,
+  "content": "Tôi đang quan tâm đến công nghệ điện tử mới nhất. Bạn có thể chia sẻ với tôi những xu hướng mới trong lĩnh vực này không?Tất nhiên! Hiện nay, có một số xu hướng đáng chú ý trong lĩnh vực điện tử. Một trong số đó là Internet of Things (IoT), cho phép các thiết bị kết nối và trao đổi dữ liệu thông qua internet. Các thiết bị như đèn LED thông minh, máy lọc không khí thông minh và hệ thống nhà thông minh đang ngày càng phổ biến. Ngoài ra, các công nghệ mới như trí tuệ nhân tạo (AI), thực tế ảo (VR) và thực tế tăng cường (AR) cũng đang thúc đẩy sự phát triển trong lĩnh vực này. Công nghệ màn hình linh hoạt, công nghệ sạc không dây và truyền tải dữ liệu 5G cũng là những xu hướng đáng chú ý trong lĩnh vực điện tử.",
+  "createdAt": {
+    "$date": "2023-05-18T15:57:23.800Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:57:23.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664ae8f81336c56adf23ba"
+  },
+  "name": "Nguyễn Thị Huỳnh Anh",
+  "ringGroup": "Sale Line",
+  "status": 3,
+  "statusTime": 575,
+  "waitTime": 19,
+  "phone": "0746289741",
+  "month": 3,
+  "content": "Tôi đang quan tâm đến các thiết bị điện tử gia dụng thông minh. Bạn có thể giới thiệu cho tôi một số sản phẩm tiêu biểu không?Tất nhiên! Hiện nay có nhiều thiết bị điện tử gia dụng thông minh đáng chú ý trên thị trường. Ví dụ, có thể kể đến hệ thống nhà thông minh điều khiển bằng giọng nói như Google Home hoặc Amazon Echo, cho phép bạn điều khiển ánh sáng, âm thanh, nhiệt độ và nhiều thiết bị khác trong nhà chỉ bằng cách nói. Ngoài ra, có cả bếp thông minh với nhiều tính năng tiện ích như việc điều chỉnh nhiệt độ nấu, kiểm soát từ xa và khả năng tùy chỉnh chương trình nấu ăn. Còn có cả máy giặt thông minh, máy lọc không khí thông minh và hệ thống an ninh thông minh để bảo vệ gia đình. Đây chỉ là một số sản phẩm tiêu biểu trong lĩnh vực này.",
+  "createdAt": {
+    "$date": "2023-05-18T15:57:28.732Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:57:28.732Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664aedf81336c56adf23c2"
+  },
+  "name": "Mai Xuân Hiếu",
+  "ringGroup": "CS,TS,Sale Line",
+  "status": 1,
+  "statusTime": 1199,
+  "waitTime": 54,
+  "phone": "0746289741",
+  "month": 12,
+  "content": "Tôi muốn tìm hiểu về các công nghệ điện tử mới trong ô tô. Bạn có thể chia sẻ với tôi những tiến bộ gần đây không?Tất nhiên! Trong lĩnh vực công nghệ điện tử ô tô, có nhiều tiến bộ đáng chú ý. Một trong số đó là xe tự lái, với các công nghệ như cảm biến, hệ thống nhận dạng và trí tuệ nhân tạo, giúp xe tự động lái và hoạt động an toàn trên đường. Ngoài ra, các tính năng kết nối và giải trí trong xe cũng ngày càng được phát triển, bao gồm hệ thống định vị GPS, màn hình cảm ứng, kết nối Bluetooth và tích hợp điều khiển giọng nói. Hơn nữa, công nghệ sạc không dây và kết nối 5G cũng đang được tích hợp vào ô tô để mang lại trải nghiệm kết nối và tiện ích tốt hơn cho người dùng.",
+  "createdAt": {
+    "$date": "2023-05-18T15:57:33.642Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:57:33.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664af2f81336c56adf23ca"
+  },
+  "name": "Trương Thị Ngọc Mỵ",
+  "ringGroup": "Orders,Billing,Sale,Sale Line",
+  "status": 2,
+  "statusTime": 103,
+  "waitTime": 13,
+  "phone": "0793582167",
+  "month": 12,
+  "content": "Tôi quan tâm đến các thiết bị điện tử đeo trên cơ thể. Bạn có thể nói cho tôi biết về chúng không?Tất nhiên! Các thiết bị điện tử đeo trên cơ thể đã trở thành một xu hướng phát triển trong thời gian gần đây. Ví dụ, các thiết bị như smartwatch, fitness tracker và thiết bị đo nhịp tim đều thuộc loại này. Chúng giúp bạn theo dõi hoạt động thể chất, giấc ngủ, nhịp tim và nhiều thông tin sức khỏe khác. Ngoài ra, còn có các thiết bị đeo trên cơ thể như tai nghe không dây, kính thực tế tăng cường (AR) và bộ mặt kính thông minh (smart glasses) để mang lại trải nghiệm đa dạng và tiện ích cho người dùng.",
+  "createdAt": {
+    "$date": "2023-05-18T15:57:38.488Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:57:38.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664af7f81336c56adf23d2"
+  },
+  "name": "Nguyễn Thanh Phong",
+  "ringGroup": "English,Sale Line",
+  "status": 2,
+  "statusTime": 205,
+  "waitTime": 23,
+  "phone": "0876137957",
+  "month": 7,
+  "content": "Phát triển bền vững là gì và tại sao nó quan trọng?Phát triển bền vững là một hướng đi trong việc xây dựng và phát triển mà đảm bảo đáp ứng nhu cầu hiện tại mà không ảnh hưởng đến khả năng của các thế hệ tương lai để đáp ứng nhu cầu của họ. Nó bao gồm việc thúc đẩy sự cân bằng giữa khía cạnh kinh tế, xã hội và môi trường. Phát triển bền vững đảm bảo rằng chúng ta không tiêu tốn tài nguyên quá mức, không gây hủy hoại môi trường và không làm suy giảm chất lượng cuộc sống của con người. Nó rất quan trọng để bảo vệ hành tinh và tạo ra một tương lai tốt đẹp hơn cho mọi người.",
+  "createdAt": {
+    "$date": "2023-05-18T15:57:43.360Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:57:43.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664afbf81336c56adf23da"
+  },
+  "name": "Lê Quốc Huy",
+  "ringGroup": "Orders",
+  "status": 2,
+  "statusTime": 895,
+  "waitTime": 43,
+  "phone": "0874165477",
+  "month": 1,
+  "content": "Có những phương pháp nào để thúc đẩy phát triển bền vững?Có nhiều phương pháp để thúc đẩy phát triển bền vững. Một trong số đó là xử lý tài nguyên một cách bền vững bằng cách tận dụng và tái sử dụng tài nguyên tự nhiên, giảm lãng phí và áp dụng công nghệ tiên tiến. Đồng thời, cần phát triển hệ thống năng lượng tái tạo và sử dụng các nguồn năng lượng xanh để giảm thiểu phụ thuộc vào nguồn năng lượng truyền thống.",
+  "createdAt": {
+    "$date": "2023-05-18T15:57:47.859Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:57:47.859Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664b00f81336c56adf23e2"
+  },
+  "name": "Phạm Đức Quốc Khánh",
+  "ringGroup": "English,Sale,TS,Sale Line",
+  "status": 3,
+  "statusTime": 176,
+  "waitTime": 23,
+  "phone": "0975624831",
+  "month": 1,
+  "content": "Phát triển bền vững liên quan đến việc bảo vệ môi trường như thế nào?Phát triển bền vững và bảo vệ môi trường có mối liên hệ chặt chẽ. Việc bảo vệ môi trường là một phần quan trọng của phát triển bền vững",
+  "createdAt": {
+    "$date": "2023-05-18T15:57:52.038Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:57:52.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664b04f81336c56adf23ea"
+  },
+  "name": "Nguyễn Trọng Triết",
+  "ringGroup": "Orders,English,Sale,TS",
+  "status": 2,
+  "statusTime": 43,
+  "waitTime": 45,
+  "phone": "0687419657",
+  "month": 10,
+  "content": "Làm thế nào để đảm bảo phát triển bền vững trong các ngành công nghiệp?Để đảm bảo phát triển bền vững trong các ngành công nghiệp, cần áp dụng các giải pháp tiên tiến và công nghệ sạch nhằm giảm thiểu tác động tiêu cực lên môi trường. Việc tăng cường sử dụng nguồn năng lượng tái tạo, quản lý và giảm lượng chất thải sản xuất, và ứng dụng các quy trình sản xuất sạch là những bước cần thiết. Đồng thời, cần thúc đẩy sự chuyển đổi sang các ngành công nghiệp có tác động thấp đến môi trường như công nghệ xanh, công nghệ sinh học và các ngành công nghiệp tái chế.",
+  "createdAt": {
+    "$date": "2023-05-18T15:57:56.819Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:57:56.819Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664b09f81336c56adf23f2"
+  },
+  "name": "Lê Thanh Bình",
+  "ringGroup": "English,Billing",
+  "status": 4,
+  "statusTime": 613,
+  "waitTime": 39,
+  "phone": "0387465297",
+  "month": 5,
+  "content": "Tại sao phát triển bền vững lại quan trọng đối với sự phát triển của các quốc gia?Phát triển bền vững quan trọng đối với sự phát triển của các quốc gia vì nó đảm bảo sự cân bằng giữa phát triển kinh tế, tiến bộ xã hội và bảo vệ môi trường. Khi một quốc gia đẩy mạnh phát triển bền vững, nó đảm bảo sự tăng trưởng kinh tế bền vững, tạo ra công việc và cơ hội kinh doanh mới, nâng cao chất lượng cuộc sống của người dân và đồng thời bảo vệ và bảo tồn các tài nguyên thiên nhiên quan trọng. Phát triển bền vững là một nền tảng cần thiết để xây dựng tương lai thịnh vượng và bền vững cho các quốc gia và toàn cầu.",
+  "createdAt": {
+    "$date": "2023-05-18T15:58:01.577Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:58:01.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664b0ef81336c56adf23fa"
+  },
+  "name": "Trần Quốc Anh",
+  "ringGroup": "Billing,Sale,TS",
+  "status": 1,
+  "statusTime": 519,
+  "waitTime": 11,
+  "phone": "0746289741",
+  "month": 2,
+  "content": "Văn hóa đóng vai trò gì trong việc xây dựng một xã hội đa dạng và hài hòa?Văn hóa đóng vai trò quan trọng trong việc xây dựng một xã hội đa dạng và hài hòa. Qua việc thúc đẩy sự hiểu biết, tôn trọng và chia sẻ giữa các nhóm văn hóa khác nhau, văn hóa giúp tạo nên sự đa dạng và thúc đẩy sự giao lưu, hòa nhập xã hội. Nó cũng góp phần trong việc bảo tồn và truyền thống di sản văn hóa của mỗi dân tộc và địa phương, đồng thời mang lại sự tự hào và nhận diện văn hóa cho mỗi cá nhân và cộng đồng.",
+  "createdAt": {
+    "$date": "2023-05-18T15:58:06.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:58:06.219Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664b12f81336c56adf2402"
+  },
+  "name": "Phạm Thiên An",
+  "ringGroup": "Orders,TS",
+  "status": 3,
+  "statusTime": 643,
+  "waitTime": 22,
+  "phone": "0876137957",
+  "month": 6,
+  "content": "Văn hóa có thể ảnh hưởng đến quan điểm và giá trị cá nhân như thế nào?Văn hóa có thể ảnh hưởng đến quan điểm và giá trị cá nhân bởi vì nó là một hệ thống các niềm tin, phong tục, giáo điều và giá trị được chia sẻ trong một cộng đồng. Qua quá trình truyền dạy và truyền thông, văn hóa hình thành và ảnh hưởng đến quan điểm, suy nghĩ và hành vi của mỗi cá nhân. Nó có thể xác định nhận thức về đúng và sai, định hướng đạo đức và xã hội, và định rõ giá trị quan trọng trong cuộc sống.",
+  "createdAt": {
+    "$date": "2023-05-18T15:58:10.784Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:58:10.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664b17f81336c56adf240a"
+  },
+  "name": "Nguyễn Thị Anh Thư",
+  "ringGroup": "Billing,Sale,Sale Line",
+  "status": 1,
+  "statusTime": 60,
+  "waitTime": 53,
+  "phone": "0874628941",
+  "month": 6,
+  "content": "Tại sao việc bảo vệ và phát huy văn hóa truyền thống là quan trọng?Việc bảo vệ và phát huy văn hóa truyền thống quan trọng vì nó giữ gìn và bảo tồn những giá trị văn hóa, truyền thống, tập quán và di sản của một dân tộc hay một cộng đồng. Đây là những nguồn tài nguyên vô cùng quý giá, mang lại sự nhận diện và tư duy đặc trưng cho mỗi cộng đồng",
+  "createdAt": {
+    "$date": "2023-05-18T15:58:15.192Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:58:15.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664b1bf81336c56adf2412"
+  },
+  "name": "Trần Trung Đức",
+  "ringGroup": "TS,Sale Line",
+  "status": 1,
+  "statusTime": 268,
+  "waitTime": 49,
+  "phone": "0746289741",
+  "month": 6,
+  "content": "Văn hóa đóng vai trò gì trong việc thúc đẩy sự đổi mới và sáng tạo?Văn hóa đóng vai trò quan trọng trong việc thúc đẩy sự đổi mới và sáng tạo. Qua việc khuyến khích sự đa dạng, tự do tư duy và sáng tạo, văn hóa tạo ra môi trường thuận lợi cho việc nảy sinh ý tưởng mới, khám phá và thử nghiệm các phương pháp, sản phẩm và giải pháp mới. Nó cũng khuyến khích sự khác biệt và sáng tạo trong tư duy và hành động của mỗi cá nhân và cộng đồng.",
+  "createdAt": {
+    "$date": "2023-05-18T15:58:19.669Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:58:19.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64664b20f81336c56adf241a"
+  },
+  "name": "Đặng Bùi Anh Nhân",
+  "ringGroup": "Sale",
+  "status": 2,
+  "statusTime": 1133,
+  "waitTime": 33,
+  "phone": "0387465297",
+  "month": 7,
+  "content": "Văn hóa có thể đóng vai trò như một công cụ giao dịch văn hóa và kinh tế không?Chính xã hội và kinh tế ảnh hưởng đến văn hóa và ngược lại, văn hóa cũng có thể đóng vai trò như một công cụ giao dịch văn hóa và kinh tế. Văn hóa đóng góp vào tạo lập các sản phẩm, dịch vụ, sáng tạo và kỹ thuật mới, góp phần vào phát triển kinh tế và tạo ra các cơ hội kinh doanh. Ngoài ra, du lịch văn hóa, nghệ thuật, sự kiện và hoạt động văn hóa có thể mang lại lợi ích kinh tế bằng cách thu hút du khách và tạo ra thu nhập cho cộng đồng.",
+  "createdAt": {
+    "$date": "2023-05-18T15:58:24.249Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T15:58:24.249Z"
+  },
+  "__v": 0
+}]
