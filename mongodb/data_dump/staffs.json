@@ -1,0 +1,258 @@
+[{
+  "_id": {
+    "$oid": "6432bdbb71f5b755e21bfcf9"
+  },
+  "name": "Le Hai Dang",
+  "email": "20110243@student.hcmute.edu.vn",
+  "createdAt": {
+    "$date": "2023-04-09T13:29:31.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-19T09:50:54.889Z"
+  },
+  "__v": 0,
+  "state": true
+},
+{
+  "_id": {
+    "$oid": "643d0b4909967fc27df486c6"
+  },
+  "email": "admin@admin",
+  "password": "1"
+},
+{
+  "_id": {
+    "$oid": "6455dd83e9fc05496c098fec"
+  },
+  "name": "Thanh",
+  "email": "20110722@student.hcmute.edu.vn",
+  "password": "1",
+  "state": true,
+  "createdAt": {
+    "$date": "2023-05-06T04:54:27.563Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-28T16:44:45.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6458cdb80b346076fd5bb53c"
+  },
+  "name": "Le Anh Kiet",
+  "email": "20110664@student.hcmute.edu.vn",
+  "state": true,
+  "createdAt": {
+    "$date": "2023-05-08T10:23:52.279Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-01T16:11:33.500Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645cb54ff4308871f4cdc372"
+  },
+  "name": "Phan Van Duc Anh",
+  "email": "20110609@student.hcmute.edu.vn",
+  "password": "123",
+  "state": true,
+  "createdAt": {
+    "$date": "2023-05-11T09:28:47.806Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-11T09:28:47.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645cb566f4308871f4cdc37f"
+  },
+  "name": "Vu Hoang Anh",
+  "email": "20110205@student.hcmute.edu.vn",
+  "password": "rqetryetr",
+  "state": true,
+  "createdAt": {
+    "$date": "2023-05-11T09:29:10.433Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-11T09:29:10.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645cb576f4308871f4cdc386"
+  },
+  "name": "Ngo Thua An",
+  "email": "20110144@student.hcmute.edu.vn",
+  "password": "rtybhgjhg",
+  "state": true,
+  "createdAt": {
+    "$date": "2023-05-11T09:29:26.628Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-11T09:29:26.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645cb58ef4308871f4cdc391"
+  },
+  "name": "Bui Dang Quoc Chi",
+  "email": "20110614@student.hcmute.edu.vn",
+  "password": "dsafsdgfnhgj76yter",
+  "state": true,
+  "createdAt": {
+    "$date": "2023-05-11T09:29:50.130Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-11T09:29:50.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645cb5a2f4308871f4cdc39c"
+  },
+  "name": "Tran Ngo Bich Du",
+  "email": "20110618@student.hcmute.edu.vn",
+  "password": "dsfsgdf43",
+  "state": true,
+  "createdAt": {
+    "$date": "2023-05-11T09:30:10.148Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-11T09:30:10.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645cb5c5f4308871f4cdc3ab"
+  },
+  "name": "Le Quang Duan",
+  "email": "20110619@student.hcmute.edu.vn",
+  "password": "dsa",
+  "state": true,
+  "createdAt": {
+    "$date": "2023-05-11T09:30:45.992Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-11T09:30:45.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645cb5dbf4308871f4cdc3b2"
+  },
+  "name": "Nguyen Ngoc Duy",
+  "email": "20110625@student.hcmute.edu.vn",
+  "password": "sdafs",
+  "state": true,
+  "createdAt": {
+    "$date": "2023-05-11T09:31:07.414Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-11T09:31:07.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645cb5f4f4308871f4cdc3be"
+  },
+  "name": "Tran Trung Hau",
+  "email": "20110642@student.hcmute.edu.vn",
+  "password": "sadfs2",
+  "state": true,
+  "createdAt": {
+    "$date": "2023-05-11T09:31:32.293Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-11T09:31:32.293Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645cb608f4308871f4cdc3d3"
+  },
+  "name": "Nguyen Duc Hien",
+  "email": "20110643@student.hcmute.edu.vn",
+  "password": "123ewdas",
+  "state": true,
+  "createdAt": {
+    "$date": "2023-05-11T09:31:52.100Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-11T09:31:52.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64649de38e25cf442fdb0d8f"
+  },
+  "name": "Luong Xuan Thang",
+  "email": "20110724@student.hcmute.edu.vn",
+  "state": true,
+  "createdAt": {
+    "$date": "2023-05-17T09:26:59.435Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-17T09:26:59.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646749da00bc18089af6d16b"
+  },
+  "name": "thắng lương",
+  "email": "luongthang730@gmail.com",
+  "state": true,
+  "createdAt": {
+    "$date": "2023-05-19T10:05:14.807Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-19T10:05:14.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646763b24884c73b4ae574fa"
+  },
+  "name": "Đăng Lê",
+  "email": "0509dangle@gmail.com",
+  "state": true,
+  "createdAt": {
+    "$date": "2023-05-19T11:55:30.696Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-19T11:55:30.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647385cf54c70b7ac73c5036"
+  },
+  "name": "Lê Hải Đăng",
+  "email": "lethongthongle756@gmail.com",
+  "password": "1",
+  "state": true,
+  "createdAt": {
+    "$date": "2023-05-28T16:48:15.549Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-28T16:48:15.549Z"
+  },
+  "__v": 0
+}]

@@ -6,7 +6,7 @@ const route = require("./routes");
 const dotenv = require("dotenv");
 
 dotenv.config();
-const port = process.env.PORT;
+const port = process.env.PORT ||5001;
 
 var bodyParser = require("body-parser");
 app.use(bodyParser.json({ limit: "50mb" }));
@@ -18,7 +18,7 @@ app.use(
   })
 );
 
-const URL = process.env.DATABASE_URL;
+const URL = process.env.MONGODB_URL;
 // Fix CORS
 // app.use(function (req, res, next) {
 //   res.setHeader("Access-Control-Allow-Origin", REACT_URL);
@@ -36,7 +36,7 @@ const URL = process.env.DATABASE_URL;
 app.use(express.json());
 app.use(cors());
 mongoose
-  .connect(URL, { dbName: "talkDesk" })
+  .connect(URL, { dbName: "my_db" })
   .then(() => console.log("Connect DB successfully!"))
   .then(() =>
     app.listen(port, () => {

@@ -13,9 +13,9 @@ jobs:
         uses: appleboy/ssh-action@master
         with:
           host: 54.173.217.245 
-          #${{ secrets.HOST }}
+          #host: ${{ secrets.HOST }}
           username: ec2-user
-          #${{ secrets.USERNAME }}
+          #username: ${{ secrets.USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           script: |
@@ -26,13 +26,14 @@ jobs:
             else
                 git clone -b main https://github.com/LeHaiDangSPKT/talkdesk_g5.git
             fi
+            
       - name: Run back-end and front-end
         uses: appleboy/ssh-action@master
         with:
           host: 54.173.217.245 
-          #${{ secrets.HOST }}
+          #host: ${{ secrets.HOST }}
           username: ec2-user
-          #${{ secrets.USERNAME }}
+          #username: ${{ secrets.USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           script: |
